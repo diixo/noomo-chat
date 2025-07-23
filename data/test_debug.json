@@ -1,0 +1,36 @@
+[
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "May I help you?"
+      },
+      {
+        "role": "user",
+        "content": "As you want"
+      },
+      {
+        "role": "assistant",
+        "content": "Well! Then clarify - what do you want I should do something?"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "What can I do for you?"
+      },
+      {
+        "role": "user",
+        "content": "As you wish"
+      },
+      {
+        "role": "assistant",
+        "content": "The phrase \"as you wish\" is too broad - help me understand the context and I will help as much as possible."
+      }
+    ]
+  }
+]
