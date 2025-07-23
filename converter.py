@@ -30,20 +30,13 @@ with open(finput, "r", encoding="utf-8") as fin:
             else:
                 raise ValueError(f"Unknown line: {turn}")
 
-            conversation.append({
-                "role": role,
-                "content": content
-            })
+            conversation.append({"role": role, "content": content})
 
         # Append final completion as assistant
         final = completion.strip()
         if final.startswith("Bot:"):
             final = final[len("Bot:"):].strip()
-
-        conversation.append({
-            "role": "assistant",
-            "content": final
-        })
+        conversation.append({"role": "assistant", "content": final})
 
         new_item = {
             "system": "You are a helpful car driver assistant.",
