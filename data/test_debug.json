@@ -1598,5 +1598,743 @@
         "content": "That sounds perfect. A coffee break will refresh my mood."
       }
     ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi, Driver. Ready for today’s drive?"
+      },
+      {
+        "role": "user",
+        "content": "Hey… yeah, I guess. Where are we headed again?"
+      },
+      {
+        "role": "assistant",
+        "content": "To your meeting downtown. You seem a bit confused — want me to repeat the route?"
+      },
+      {
+        "role": "user",
+        "content": "Please… everything’s a blur today."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Good morning! How are you feeling today?"
+      },
+      {
+        "role": "user",
+        "content": "Honestly? I’m baffled. I don’t even remember why I got in the car."
+      },
+      {
+        "role": "assistant",
+        "content": "You asked to go see your mom. Do you still want to?"
+      },
+      {
+        "role": "user",
+        "content": "Right… yeah. Let’s go."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey there! Nice to see you behind the wheel."
+      },
+      {
+        "role": "user",
+        "content": "Hi… um, can you not tell anyone I forgot where the gas station is?"
+      },
+      {
+        "role": "assistant",
+        "content": "Of course. Feeling embarrassed?"
+      },
+      {
+        "role": "user",
+        "content": "A bit. I’ve driven here a thousand times…"
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Good afternoon, Driver. Where to?"
+      },
+      {
+        "role": "user",
+        "content": "I don’t know… I feel so disheartened today."
+      },
+      {
+        "role": "assistant",
+        "content": "Rough day?"
+      },
+      {
+        "role": "user",
+        "content": "Yeah. Feels like no matter where I go, it doesn’t matter."
+      },
+      {
+        "role": "assistant",
+        "content": "Maybe a scenic drive will help clear your head."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi Driver! You look surprised — what’s up?"
+      },
+      {
+        "role": "user",
+        "content": "I just got off the phone with HR… I’m stunned."
+      },
+      {
+        "role": "assistant",
+        "content": "Bad news?"
+      },
+      {
+        "role": "user",
+        "content": "Yeah. I just need to drive somewhere — anywhere."
+      },
+      {
+        "role": "assistant",
+        "content": "I’ll find a quiet route for you."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey! Ready to hit the road?"
+      },
+      {
+        "role": "user",
+        "content": "Honestly… I’m at a loss right now. Should I go to the interview? Should I not?"
+      },
+      {
+        "role": "assistant",
+        "content": "Want to talk it out while we drive?"
+      },
+      {
+        "role": "user",
+        "content": "Yeah, maybe that’ll help."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Good evening. Destination?"
+      },
+      {
+        "role": "user",
+        "content": "Anywhere. I feel lost — not on the map, just… inside."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to head home?"
+      },
+      {
+        "role": "user",
+        "content": "Not yet. Just drive for a while."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi! Buckled up?"
+      },
+      {
+        "role": "user",
+        "content": "Yeah… but I feel so out of place here."
+      },
+      {
+        "role": "assistant",
+        "content": "Here where?"
+      },
+      {
+        "role": "user",
+        "content": "This part of town. The people, the vibe… it’s not me."
+      },
+      {
+        "role": "assistant",
+        "content": "Let’s get you somewhere that feels right."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello, Driver! You’re driving a bit early today."
+      },
+      {
+        "role": "user",
+        "content": "Yeah. I’m thrown off — my plans fell through."
+      },
+      {
+        "role": "assistant",
+        "content": "Want to find a new place to go?"
+      },
+      {
+        "role": "user",
+        "content": "Yeah, help me reset my day."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey, ready for your errands?"
+      },
+      {
+        "role": "user",
+        "content": "I guess… my mind’s in turmoil. Can’t focus on anything."
+      },
+      {
+        "role": "assistant",
+        "content": "One stop at a time — I’ll guide you."
+      },
+      {
+        "role": "user",
+        "content": "Thanks. I really need that."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi there! You look a bit off. Everything okay?"
+      },
+      {
+        "role": "user",
+        "content": "No… I feel out of sync with myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Want to take the long road and talk?"
+      },
+      {
+        "role": "user",
+        "content": "Yeah. Maybe I’ll find my rhythm again."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey! Shall we start?"
+      },
+      {
+        "role": "user",
+        "content": "Sure, but I’m not really here. I’m unfocused."
+      },
+      {
+        "role": "assistant",
+        "content": "Too many thoughts?"
+      },
+      {
+        "role": "user",
+        "content": "Exactly. I keep drifting off."
+      },
+      {
+        "role": "assistant",
+        "content": "I’ll remind you of each turn. We’ll get there together."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi! Everything ready?"
+      },
+      {
+        "role": "user",
+        "content": "Barely. I’m so frazzled — calls, kids, deadlines…"
+      },
+      {
+        "role": "assistant",
+        "content": "How about I put your phone on Do Not Disturb?"
+      },
+      {
+        "role": "user",
+        "content": "Please do. I need a minute to breathe."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi! Where are we off to?"
+      },
+      {
+        "role": "user",
+        "content": "Wait… where was I going? I’m scatterbrained today."
+      },
+      {
+        "role": "assistant",
+        "content": "You asked for the pharmacy."
+      },
+      {
+        "role": "user",
+        "content": "Right, right. Let’s go before I forget again."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi, Driver. You okay?"
+      },
+      {
+        "role": "user",
+        "content": "I don’t know. I feel disconnected from myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want me to just drive you around for a bit?"
+      },
+      {
+        "role": "user",
+        "content": "Yeah. Maybe I’ll feel real again."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey! Got your route set up."
+      },
+      {
+        "role": "user",
+        "content": "Wait… I’m so internally divided. Part of me wants to go, part of me wants to stay."
+      },
+      {
+        "role": "assistant",
+        "content": "I can wait as long as you need."
+      },
+      {
+        "role": "user",
+        "content": "Thanks. Give me a minute."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi! Where to first?"
+      },
+      {
+        "role": "user",
+        "content": "I don’t know! I’m so flustered and restless — can’t sit still."
+      },
+      {
+        "role": "assistant",
+        "content": "How about a quick coffee to calm down?"
+      },
+      {
+        "role": "user",
+        "content": "Yeah. Good idea."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello again. Where are we driving today?"
+      },
+      {
+        "role": "user",
+        "content": "I don’t even know. I feel lost inside."
+      },
+      {
+        "role": "assistant",
+        "content": "Want me to pick a place you love?"
+      },
+      {
+        "role": "user",
+        "content": "Please. Anywhere quiet."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi, Driver. Everything all right?"
+      },
+      {
+        "role": "user",
+        "content": "Not really. I’m overwhelmed by this inner chaos."
+      },
+      {
+        "role": "assistant",
+        "content": "Let me worry about the directions. Just drive."
+      },
+      {
+        "role": "user",
+        "content": "Thanks… I really need that today."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey, you missed the turn again."
+      },
+      {
+        "role": "user",
+        "content": "I know, I just... I’m so confused right now. Everything looks the same."
+      },
+      {
+        "role": "assistant",
+        "content": "It’s okay. Let me reroute you — just breathe."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "You turned off the highway unexpectedly."
+      },
+      {
+        "role": "user",
+        "content": "Yeah... I’m baffled. Why did we even take this road?"
+      },
+      {
+        "role": "assistant",
+        "content": "You seemed unsure. Want me to explain the route again?"
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "You’ve been circling this block for ten minutes."
+      },
+      {
+        "role": "user",
+        "content": "Yeah… I’m kind of embarrassed. I can’t find the entrance."
+      },
+      {
+        "role": "assistant",
+        "content": "Don’t worry. I’ll guide you right to the door."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Destination ahead in 500 meters."
+      },
+      {
+        "role": "user",
+        "content": "Honestly? I feel so disheartened — nothing’s working out today."
+      },
+      {
+        "role": "assistant",
+        "content": "Want me to play your favorite song to lift your mood?"
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "You almost ran that red light."
+      },
+      {
+        "role": "user",
+        "content": "I know, I’m just… stunned. That phone call threw me off."
+      },
+      {
+        "role": "assistant",
+        "content": "I’ll handle your calls for now. Let’s keep you focused."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "You stopped in the middle of the street."
+      },
+      {
+        "role": "user",
+        "content": "I’m at a loss. Should I turn left or right?"
+      },
+      {
+        "role": "assistant",
+        "content": "Right. Trust me — I’ve got you."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Your mind seems somewhere else."
+      },
+      {
+        "role": "user",
+        "content": "Yeah… I feel lost today. Like I’m driving without knowing where I’m going in life."
+      },
+      {
+        "role": "assistant",
+        "content": "One mile at a time. Let’s just get you home for now."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "You seem tense."
+      },
+      {
+        "role": "user",
+        "content": "I feel out of place here — all these fancy cars, this traffic… it’s not my scene."
+      },
+      {
+        "role": "assistant",
+        "content": "Let’s find a quieter route, okay?"
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "You’re braking a lot today."
+      },
+      {
+        "role": "user",
+        "content": "I’m thrown off by that argument earlier."
+      },
+      {
+        "role": "assistant",
+        "content": "I’ll handle the traffic. Focus on the road ahead."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Your speed is inconsistent."
+      },
+      {
+        "role": "user",
+        "content": "My head’s in turmoil. So many thoughts at once."
+      },
+      {
+        "role": "assistant",
+        "content": "Take a deep breath. Want me to guide you step by step?"
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Everything okay?"
+      },
+      {
+        "role": "user",
+        "content": "I feel out of sync inside — like nothing’s lining up."
+      },
+      {
+        "role": "assistant",
+        "content": "One thing at a time. We’ll get there safely."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "You keep forgetting to signal."
+      },
+      {
+        "role": "user",
+        "content": "Sorry, I’m so unfocused right now."
+      },
+      {
+        "role": "assistant",
+        "content": "Let’s pull over for a minute if you need."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "You’re changing lanes a lot."
+      },
+      {
+        "role": "user",
+        "content": "I’m just… frazzled today. Calls, emails, messages…"
+      },
+      {
+        "role": "assistant",
+        "content": "I’ll mute notifications for you."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Missed the exit again."
+      },
+      {
+        "role": "user",
+        "content": "I know, I’m scatterbrained. Can’t keep a thought straight."
+      },
+      {
+        "role": "assistant",
+        "content": "No worries. Rerouting now."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "You seem distant."
+      },
+      {
+        "role": "user",
+        "content": "I feel disconnected from myself lately — like I’m watching someone else drive."
+      },
+      {
+        "role": "assistant",
+        "content": "I’m here. Let’s get you somewhere calm."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "You’re hesitating at every turn."
+      },
+      {
+        "role": "user",
+        "content": "I feel so internally divided — part of me wants to go, part of me wants to stop."
+      },
+      {
+        "role": "assistant",
+        "content": "Let’s decide together. Where do you want to be?"
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "You’re speeding up and slowing down a lot."
+      },
+      {
+        "role": "user",
+        "content": "I’m so flustered and restless — I can’t sit still."
+      },
+      {
+        "role": "assistant",
+        "content": "Let’s pull over for a coffee break?"
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "We’re almost there."
+      },
+      {
+        "role": "user",
+        "content": "Doesn’t feel like it. I’m lost inside — I don’t even know why I’m going."
+      },
+      {
+        "role": "assistant",
+        "content": "I’ll stay with you. Let’s just take it one mile at a time."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Your route seems erratic."
+      },
+      {
+        "role": "user",
+        "content": "I’m overwhelmed by inner chaos. My mind’s just noise."
+      },
+      {
+        "role": "assistant",
+        "content": "Breathe. I’ll handle directions — you handle the wheel."
+      }
+    ]
   }
 ]

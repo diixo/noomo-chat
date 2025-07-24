@@ -24,7 +24,7 @@ def dialogs_txt2json(input_file):
             if not line:
                 continue
 
-            if line.startswith("###"):
+            if line.strip().startswith("##"):
                 # New dialog — save previous, if it was
                 if current_conversation:
                     all_conversations.append({
@@ -40,6 +40,12 @@ def dialogs_txt2json(input_file):
             elif line.startswith("Bot:"):
                 role = "assistant"
                 content = line[len("Bot:"):].strip()
+            elif line.startswith("Driver:"):
+                role = "user"
+                content = line[len("Driver:"):].strip()
+            elif line.startswith("Assistant:"):
+                role = "assistant"
+                content = line[len("Assistant:"):].strip()
             else:
                 continue
 
