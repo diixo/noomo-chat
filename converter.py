@@ -54,6 +54,9 @@ def convert_to_json(finput: str):
 
 
 if __name__ == "__main__":
+    
+    #convert_to_json(finput)
+
     exit(0)
 
     with open(finput, 'r', encoding='utf-8') as f:
