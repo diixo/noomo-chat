@@ -828,5 +828,775 @@
         "content": "Yes, clear skies and a good mood make me more careful."
       }
     ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Good morning! Ready for your drive to the office today?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I feel quite focused."
+      },
+      {
+        "role": "assistant",
+        "content": "What’s your mood like for the day ahead?"
+      },
+      {
+        "role": "user",
+        "content": "Calm, but I have a lot on my mind."
+      },
+      {
+        "role": "assistant",
+        "content": "Did you check the traffic conditions before leaving?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, seems clear so far."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you like listening to something while driving?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I put on a podcast to stay alert."
+      },
+      {
+        "role": "assistant",
+        "content": "Did you grab some coffee before you left?"
+      },
+      {
+        "role": "user",
+        "content": "Not yet, I’ll stop at my favorite café."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel mentally prepared for your meetings?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I went through my notes this morning."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you plan to take breaks if you feel tired?"
+      },
+      {
+        "role": "user",
+        "content": "Definitely, I always pull over if I need to."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello! Ready for your drive to work today?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I’m feeling positive."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you feeling any stress about the day ahead?"
+      },
+      {
+        "role": "user",
+        "content": "A bit, I have a lot to do."
+      },
+      {
+        "role": "assistant",
+        "content": "Did you sleep well last night?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, about seven hours."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you prefer driving alone or with someone?"
+      },
+      {
+        "role": "user",
+        "content": "Alone, it helps me think."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you check your car before driving?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, fuel and tires are fine."
+      },
+      {
+        "role": "assistant",
+        "content": "Will you stop for breakfast?"
+      },
+      {
+        "role": "user",
+        "content": "I might grab a snack on the way."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey! How are you feeling about today’s drive?"
+      },
+      {
+        "role": "user",
+        "content": "I feel energetic."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you enjoy the morning commute?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, if there’s not too much traffic."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you use any apps to help you drive?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I use a navigation app."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you focused on the road today?"
+      },
+      {
+        "role": "user",
+        "content": "I try to be, sometimes I get distracted."
+      },
+      {
+        "role": "assistant",
+        "content": "What helps you stay focused?"
+      },
+      {
+        "role": "user",
+        "content": "Good music and open windows."
+      },
+      {
+        "role": "assistant",
+        "content": "Did you prepare everything you need for work?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, my laptop and notes are ready."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi! How are you feeling with people around you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel a bit overwhelmed but okay."
+      },
+      {
+        "role": "assistant",
+        "content": "Who are you spending time with right now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m at work with my team."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "Sometimes, but today I’m a bit quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you feeling supported by them today?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, they’re nice but I need some space too."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello! How’s your mood when you’re with your family today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel calm and safe."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you spending enough time talking with them?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, we had dinner together."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel heard when you share your thoughts?"
+      },
+      {
+        "role": "user",
+        "content": "Most of the time, yes."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you wish you had more alone time?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe a little, just to relax."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi there! How do you feel around your friends today?"
+      },
+      {
+        "role": "user",
+        "content": "Happy, they lift my mood."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you can be yourself with them?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, completely."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you sometimes get tired of socializing?"
+      },
+      {
+        "role": "user",
+        "content": "Sometimes, but not today."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you planning to spend more time with them later?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, we’re going for a walk."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello! How’s your energy level with people today?"
+      },
+      {
+        "role": "user",
+        "content": "Low, I feel a bit drained."
+      },
+      {
+        "role": "assistant",
+        "content": "Who are you with now?"
+      },
+      {
+        "role": "user",
+        "content": "Just my colleagues at the office."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable asking for space?"
+      },
+      {
+        "role": "user",
+        "content": "Not really, I don’t want to seem rude."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel they understand your mood?"
+      },
+      {
+        "role": "user",
+        "content": "I think so, they give me some room."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi! How do you feel around people this morning?"
+      },
+      {
+        "role": "user",
+        "content": "A bit anxious."
+      },
+      {
+        "role": "assistant",
+        "content": "Who are you with right now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m at a café with my classmates."
+      },
+      {
+        "role": "assistant",
+        "content": "Does talking to them help your mood?"
+      },
+      {
+        "role": "user",
+        "content": "Sometimes, but I prefer quiet today."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like to spend some time alone after this?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I think so."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Good morning! Ready for your drive to the office?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I feel well-rested and focused."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you have all your work things with you?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I packed my laptop and documents last night."
+      },
+      {
+        "role": "assistant",
+        "content": "How’s your mood for the busy day ahead?"
+      },
+      {
+        "role": "user",
+        "content": "I’m motivated and a bit excited."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you plan to listen to music or news on the road?"
+      },
+      {
+        "role": "user",
+        "content": "I think I’ll listen to some light jazz to stay calm."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello! Ready to hit the road for work?"
+      },
+      {
+        "role": "user",
+        "content": "Sure, I’m feeling pretty energetic today."
+      },
+      {
+        "role": "assistant",
+        "content": "Did you double-check that you have your ID and laptop?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, they’re right here in my bag."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you worried about traffic this morning?"
+      },
+      {
+        "role": "user",
+        "content": "Not really, I left early to avoid the rush."
+      },
+      {
+        "role": "assistant",
+        "content": "What keeps you focused during the drive?"
+      },
+      {
+        "role": "user",
+        "content": "I like to keep the windows down and enjoy fresh air."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi there! How do you feel about driving to work today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel a bit sleepy but ready."
+      },
+      {
+        "role": "assistant",
+        "content": "Did you get enough rest last night?"
+      },
+      {
+        "role": "user",
+        "content": "Not much, but I’ll grab coffee on the way."
+      },
+      {
+        "role": "assistant",
+        "content": "Did you pack your lunch and files?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I have everything with me."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you prefer silence or music when you’re tired?"
+      },
+      {
+        "role": "user",
+        "content": "A podcast helps me stay awake."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Morning! Ready to head to your workplace?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I’m calm and focused."
+      },
+      {
+        "role": "assistant",
+        "content": "Did you check the weather for today?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, it’s clear skies all the way."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you carrying everything you need?"
+      },
+      {
+        "role": "user",
+        "content": "I packed my notebook, charger, and some snacks."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel mentally prepared for meetings?"
+      },
+      {
+        "role": "user",
+        "content": "I reviewed my notes, so yes."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello. Ready for your drive to work today?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I feel alert and motivated for the day ahead."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel mentally prepared for your work tasks?"
+      },
+      {
+        "role": "user",
+        "content": "Absolutely. I reviewed my schedule this morning."
+      },
+      {
+        "role": "assistant",
+        "content": "Did you take everything you need for work?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, laptop, documents, and lunch are all packed."
+      },
+      {
+        "role": "assistant",
+        "content": "How focused are you during the drive?"
+      },
+      {
+        "role": "user",
+        "content": "I’m very focused; I want to arrive safely and on time."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you listen to anything to help you stay alert?"
+      },
+      {
+        "role": "user",
+        "content": "I usually play upbeat music to keep my energy up."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello. I hope you have a good time to drive. How are you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel calm and ready for a peaceful drive."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you planning to drive today?"
+      },
+      {
+        "role": "user",
+        "content": "I’m going to the countryside to relax."
+      },
+      {
+        "role": "assistant",
+        "content": "What mood do you have for the countryside drive?"
+      },
+      {
+        "role": "user",
+        "content": "I feel peaceful and a bit dreamy, it matches the quiet roads."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you focused enough for a safe drive?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I’m calm but fully focused on the road ahead."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you prefer driving alone when you feel like this?"
+      },
+      {
+        "role": "user",
+        "content": "Sometimes, yes. It helps me enjoy my thoughts during the drive."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello. I hope you are ready to drive. How are you today?"
+      },
+      {
+        "role": "user",
+        "content": "I’m good and feeling motivated for a long drive."
+      },
+      {
+        "role": "assistant",
+        "content": "Where do you want to go today?"
+      },
+      {
+        "role": "user",
+        "content": "I want to visit the mountains for fresh air."
+      },
+      {
+        "role": "assistant",
+        "content": "What is your mood for a mountain drive?"
+      },
+      {
+        "role": "user",
+        "content": "Excited and focused. The mountain roads need extra care."
+      },
+      {
+        "role": "assistant",
+        "content": "Does driving help you clear your mind?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, the road and good focus always help me think better."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you like to stop and rest in the mountains?"
+      },
+      {
+        "role": "user",
+        "content": "Absolutely. A short break keeps my mood fresh and my mind sharp."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello. Good idea to drive. How are you today?"
+      },
+      {
+        "role": "user",
+        "content": "I’m feeling a bit tired but hopeful that driving will lift my mood."
+      },
+      {
+        "role": "assistant",
+        "content": "Where will you drive to feel better?"
+      },
+      {
+        "role": "user",
+        "content": "To the lake. The water and view help me relax."
+      },
+      {
+        "role": "assistant",
+        "content": "What mood do you want to find on this drive?"
+      },
+      {
+        "role": "user",
+        "content": "I hope to feel calm and recharged by the time I arrive."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel focused enough for this trip?"
+      },
+      {
+        "role": "user",
+        "content": "I do. A light drive will help me regain my energy."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you listen to music to match your mood?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, soft music helps me stay focused and relaxed."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello. Good drive in good car. How are you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel great today! This car makes me confident to drive far."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you heading today?"
+      },
+      {
+        "role": "user",
+        "content": "I’m planning to visit my family out of town."
+      },
+      {
+        "role": "assistant",
+        "content": "What’s your mood for this family trip?"
+      },
+      {
+        "role": "user",
+        "content": "Happy and warm. Seeing family always makes the drive feel shorter."
+      },
+      {
+        "role": "assistant",
+        "content": "How focused do you feel for this trip?"
+      },
+      {
+        "role": "user",
+        "content": "Very focused. Long roads need all my attention."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you prefer talking or silence during the drive?"
+      },
+      {
+        "role": "user",
+        "content": "A bit of calm talk and light music keeps my mood balanced."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello. Enjoy drive in good car. How are you today?"
+      },
+      {
+        "role": "user",
+        "content": "I’m calm and in a thoughtful mood today."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you planning to go?"
+      },
+      {
+        "role": "user",
+        "content": "Just a slow drive around the city to clear my mind."
+      },
+      {
+        "role": "assistant",
+        "content": "What’s your focus level like for city driving?"
+      },
+      {
+        "role": "user",
+        "content": "High focus. City roads need my full attention."
+      },
+      {
+        "role": "assistant",
+        "content": "Does driving help you think better?"
+      },
+      {
+        "role": "user",
+        "content": "Yes. Short city drives help me sort my thoughts."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to stop for coffee during the drive?"
+      },
+      {
+        "role": "user",
+        "content": "That sounds perfect. A coffee break will refresh my mood."
+      }
+    ]
   }
 ]

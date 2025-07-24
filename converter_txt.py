@@ -11,7 +11,7 @@ Bot: Hello-hello.
 import json
 
 
-def dialogs_txt_to_json(input_file):
+def dialogs_txt2json(input_file):
 
     output_file = input_file.split(".txt")[0] + ".json"
 
@@ -61,4 +61,4 @@ def dialogs_txt_to_json(input_file):
     print(f"JSON was saved into: {output_file}")
 
 
-dialogs_txt_to_json(input_file="data/dialogs.txt")
+dialogs_txt2json(input_file="data/dialogs.txt")
