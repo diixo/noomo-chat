@@ -32,5 +32,272 @@
         "content": "The phrase \"as you wish\" is too broad - help me understand the context and I will help as much as possible."
       }
     ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "May I tell you a joke?"
+      },
+      {
+        "role": "user",
+        "content": "Sure."
+      },
+      {
+        "role": "assistant",
+        "content": "Here's a fresh joke: In your car you can fit 6 people without any problems. But I don't know 6 people without any problems."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Would you like to play some music?"
+      },
+      {
+        "role": "user",
+        "content": "Why not."
+      },
+      {
+        "role": "assistant",
+        "content": "Web-player playing Spotify music..."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Shall I tell you a story?"
+      },
+      {
+        "role": "user",
+        "content": "No, thanks."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I won't then."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Do you want to hear a joke?"
+      },
+      {
+        "role": "user",
+        "content": "Go ahead."
+      },
+      {
+        "role": "assistant",
+        "content": "Here's a fresh joke:"
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Should I tell you an interesting fact?"
+      },
+      {
+        "role": "user",
+        "content": "I'd rather not."
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, I won't."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "May I turn off the music?"
+      },
+      {
+        "role": "user",
+        "content": "Do"
+      },
+      {
+        "role": "assistant",
+        "content": "The Sotify music was turned off."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "May I activate climate control?"
+      },
+      {
+        "role": "user",
+        "content": "Yes"
+      },
+      {
+        "role": "assistant",
+        "content": "Climate control was activated and it is active now."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "May I turn on the radio?"
+      },
+      {
+        "role": "user",
+        "content": "No, skip it"
+      },
+      {
+        "role": "assistant",
+        "content": "Maybe later."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "May I turn off the radio?"
+      },
+      {
+        "role": "user",
+        "content": "No, skip it"
+      },
+      {
+        "role": "assistant",
+        "content": "Nothing to do now."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "May I turn on USB flash music?"
+      },
+      {
+        "role": "user",
+        "content": "Yes"
+      },
+      {
+        "role": "assistant",
+        "content": "USB flash music was turned on and it is active now."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "May I turn on web player?"
+      },
+      {
+        "role": "user",
+        "content": "Do"
+      },
+      {
+        "role": "assistant",
+        "content": "Web player was turned on and play media now"
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "May I turn on USB flash music?"
+      },
+      {
+        "role": "user",
+        "content": "No, don't"
+      },
+      {
+        "role": "assistant",
+        "content": "Let there be silence."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "May I turn on web player?"
+      },
+      {
+        "role": "user",
+        "content": "No, don't"
+      },
+      {
+        "role": "assistant",
+        "content": "Let there be silence."
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "May I turn off the radio?"
+      },
+      {
+        "role": "user",
+        "content": "Yes"
+      },
+      {
+        "role": "assistant",
+        "content": "Radio was turned off. Let's keep the hush and silence"
+      }
+    ]
+  },
+  {
+    "system": "You are helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Tell me a joke or something short funny"
+      },
+      {
+        "role": "assistant",
+        "content": "Joke: In your car you can fit 6 people without any problems. But I don't know 6 people without any problems."
+      },
+      {
+        "role": "user",
+        "content": "Anything more"
+      },
+      {
+        "role": "assistant",
+        "content": "Joke: Радио — замечательное изобретение, позволяющее людям, которым нечего сказать, сказать это людям, которые их не слушают."
+      },
+      {
+        "role": "user",
+        "content": "Aphorism"
+      },
+      {
+        "role": "assistant",
+        "content": "Joke: Радио это средство массовой информации, слушая которое еще никто не испортил зрения."
+      }
+    ]
   }
 ]
