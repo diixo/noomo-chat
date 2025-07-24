@@ -1,0 +1,14 @@
+{"context": "I can't wait to see my friends tonight!", "label": "happy"}
+{"context": "I feel so alone and exhausted.", "label": "sad"}
+{"context": "They never listen to me, it makes me furious.", "label": "angry"}
+{"context": "I'm scared about what might happen tomorrow.", "label": "fearful"}
+{"context": "I feel at peace sitting here by the lake.", "label": "calm"}
+{"context": "I have too much to do and I can't handle it.", "label": "stressed"}
+{"context": "I feel great today! I’m so excited for my plans.", "label": "happy"}
+{"context": "I’m really tired and just want to be alone.", "label": "sad"}
+{"context": "I can’t believe they did that, I’m so angry!", "label": "angry"}
+{"context": "I’m worried about tomorrow’s meeting.", "label": "fearful"}
+{"context": "I feel calm and relaxed after my walk.", "label": "calm"}
+{"context": "Everything is so overwhelming right now.", "label": "stressed"}
+
+сгенерировал 100 уникальных диалогов для анализа психологического состояния человека в окружении других людей — в формате JSONL.
