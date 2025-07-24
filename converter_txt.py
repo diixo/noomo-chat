@@ -1,4 +1,13 @@
 
+### input file-format:
+"""
+User: Hello.
+Bot: Hello-hello.
+#####
+User: Hello.
+Bot: Hello-hello.
+"""
+
 import json
 
 
@@ -45,17 +54,11 @@ def dialogs_txt_to_json(input_file):
             "conversation": current_conversation
         })
 
-    # result = {
-    #     "system": "You are helpful car driver assistant.",
-    #     "conversation": conversation
-    # }
-
+    # save final
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(all_conversations, f, ensure_ascii=False, indent=2)
 
     print(f"JSON was saved into: {output_file}")
 
-# Пример использования:
-# txt_to_json("dialogs.txt", "dialogs.json")
 
 dialogs_txt_to_json(input_file="data/dialogs.txt")
