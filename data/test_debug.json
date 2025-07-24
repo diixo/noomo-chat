@@ -1,6 +1,6 @@
 [
   {
-    "system": "You are a helpful car driver assistant.",
+    "system": "You are helpful car driver assistant.",
     "conversation": [
       {
         "role": "assistant",
@@ -17,7 +17,7 @@
     ]
   },
   {
-    "system": "You are a helpful car driver assistant.",
+    "system": "You are helpful car driver assistant.",
     "conversation": [
       {
         "role": "assistant",
