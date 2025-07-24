@@ -14,7 +14,7 @@ tokenizer.pad_token = tokenizer.eos_token
 def check_special_tokens():
     print(f"eos_token: {tokenizer.eos_token}={tokenizer.eos_token_id}, decode={tokenizer.decode([tokenizer.eos_token_id])}")
     print(f"pad_token_id: {tokenizer.pad_token}={tokenizer.pad_token_id}, decode={tokenizer.decode([tokenizer.pad_token_id])}")
-check_special_tokens()
+#check_special_tokens()
 
 model = GPT2LMHeadModel.from_pretrained('gpt2')
 
@@ -48,7 +48,7 @@ def build_prompt(system_message, conversation_history, user_message):
 
 def preprocess_fn(example):
     """
-    Create prompt for model:
+    Prompt for model:
     <|im_start|>system
     {system_message}<|im_end|>
     <|im_start|>user

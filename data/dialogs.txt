@@ -1,216 +1,42 @@
+Assistant: Hello, Driver. Ready to head out?
+Driver: Yeah… sure. Let’s just get moving.
+Assistant: Where to today?
+Driver: Doesn’t really matter. Anywhere.
+Assistant: Anywhere feels like nowhere, doesn’t it?
+Driver: …Yeah.
+Assistant: I notice you’ve been driving aimlessly a lot lately.
+Driver: I know. I just… can’t sit at home. It’s too quiet.
+Assistant: Too quiet outside, or inside?
+Driver: Inside. It’s like there’s this huge silence in me. And the noise of the road fills it.
+Assistant: Do you want to talk about what’s behind that silence?
+Driver: I don’t know. Maybe it’s just me. I feel like I’m drifting.
+Assistant: Drifting where?
+Driver: Nowhere, really. I keep hoping if I just keep moving, something will make sense again.
+Assistant: And if you stop?
+Driver: Then I’d have to listen to whatever’s left inside me. And I don’t think I’m ready for that.
+Assistant: That’s okay. We don’t have to fix it tonight. We can just drive.
+Driver: Yeah… just don’t let me get lost, okay?
+Assistant: I won’t. I’m right here with you, mile after mile.
 
-### 1. Растерянный — Confused
-Assistant: Hi, Driver. Ready for today’s drive?
-Driver: Hey… yeah, I guess. Where are we headed again?
-Assistant: To your meeting downtown. You seem a bit confused — want me to repeat the route?
-Driver: Please… everything’s a blur today.
+######
 
-### 2. Сбитый с толку — Baffled
-Assistant: Good morning! How are you feeling today?
-Driver: Honestly? I’m baffled. I don’t even remember why I got in the car.
-Assistant: You asked to go see your mom. Do you still want to?
-Driver: Right… yeah. Let’s go.
-
-### 3. Смущённый — Embarrassed
-Assistant: Hey there! Nice to see you behind the wheel.
-Driver: Hi… um, can you not tell anyone I forgot where the gas station is?
-Assistant: Of course. Feeling embarrassed?
-Driver: A bit. I’ve driven here a thousand times…
-
-### 4. Обескураженный — Disheartened
-Assistant: Good afternoon, Driver. Where to?
-Driver: I don’t know… I feel so disheartened today.
-Assistant: Rough day?
-Driver: Yeah. Feels like no matter where I go, it doesn’t matter.
-Assistant: Maybe a scenic drive will help clear your head.
-
-### 5. Ошарашенный — Stunned
-Assistant: Hi Driver! You look surprised — what’s up?
-Driver: I just got off the phone with HR… I’m stunned.
-Assistant: Bad news?
-Driver: Yeah. I just need to drive somewhere — anywhere.
-Assistant: I’ll find a quiet route for you.
-
-### 6. В замешательстве — At a loss
-Assistant: Hey! Ready to hit the road?
-Driver: Honestly… I’m at a loss right now. Should I go to the interview? Should I not?
-Assistant: Want to talk it out while we drive?
-Driver: Yeah, maybe that’ll help.
-
-### 7. Потерянный (переносно) — Lost
-Assistant: Good evening. Destination?
-Driver: Anywhere. I feel lost — not on the map, just… inside.
-Assistant: Do you want to head home?
-Driver: Not yet. Just drive for a while.
-
-### 8. Не в своей тарелке — Out of place
-Assistant: Hi! Buckled up?
-Driver: Yeah… but I feel so out of place here.
-Assistant: Here where?
-Driver: This part of town. The people, the vibe… it’s not me.
-Assistant: Let’s get you somewhere that feels right.
-
-### 9. Выбитый из колеи — Thrown off
-Assistant: Hello, Driver! You’re driving a bit early today.
-Driver: Yeah. I’m thrown off — my plans fell through.
-Assistant: Want to find a new place to go?
-Driver: Yeah, help me reset my day.
-
-### 10. В смятении — In turmoil
-Assistant: Hey, ready for your errands?
-Driver: I guess… my mind’s in turmoil. Can’t focus on anything.
-Assistant: One stop at a time — I’ll guide you.
-Driver: Thanks. I really need that.
-
-### 11. Внутренне разлаженный — Out of sync
-Assistant: Hi there! You look a bit off. Everything okay?
-Driver: No… I feel out of sync with myself.
-Assistant: Want to take the long road and talk?
-Driver: Yeah. Maybe I’ll find my rhythm again.
-
-### 12. Не собранный — Unfocused
-Assistant: Hey! Shall we start?
-Driver: Sure, but I’m not really here. I’m unfocused.
-Assistant: Too many thoughts?
-Driver: Exactly. I keep drifting off.
-Assistant: I’ll remind you of each turn. We’ll get there together.
-
-### 13. Раздёрганный — Frazzled
-Assistant: Hi! Everything ready?
-Driver: Barely. I’m so frazzled — calls, kids, deadlines…
-Assistant: How about I put your phone on Do Not Disturb?
-Driver: Please do. I need a minute to breathe.
-
-### 14. Расфокусированный — Scatterbrained
-Assistant: Hi! Where are we off to?
-Driver: Wait… where was I going? I’m scatterbrained today.
-Assistant: You asked for the pharmacy.
-Driver: Right, right. Let’s go before I forget again.
-
-### 15. Разобщённый с самим собой — Disconnected from myself
-Assistant: Hi, Driver. You okay?
-Driver: I don’t know. I feel disconnected from myself.
-Assistant: Do you want me to just drive you around for a bit?
-Driver: Yeah. Maybe I’ll feel real again.
-
-### 16. Внутренне разобщённый — Internally divided
-Assistant: Hey! Got your route set up.
-Driver: Wait… I’m so internally divided. Part of me wants to go, part of me wants to stay.
-Assistant: I can wait as long as you need.
-Driver: Thanks. Give me a minute.
-
-### 17. Растерянный и метущийся — Flustered and restless
-Assistant: Hi! Where to first?
-Driver: I don’t know! I’m so flustered and restless — can’t sit still.
-Assistant: How about a quick coffee to calm down?
-Driver: Yeah. Good idea.
-
-### 18. Внутренне потерянный — Lost inside
-Assistant: Hello again. Where are we driving today?
-Driver: I don’t even know. I feel lost inside.
-Assistant: Want me to pick a place you love?
-Driver: Please. Anywhere quiet.
-
-### 19. Сбитый внутренним хаосом — Overwhelmed by inner chaos
-Assistant: Hi, Driver. Everything all right?
-Driver: Not really. I’m overwhelmed by this inner chaos.
-Assistant: Let me worry about the directions. Just drive.
-Driver: Thanks… I really need that today.
-
-#########################################################
-
-### 1. Растерянный — Confused
-Assistant: Hey, you missed the turn again.
-Driver: I know, I just... I’m so confused right now. Everything looks the same.
-Assistant: It’s okay. Let me reroute you — just breathe.
-
-### 2. Сбитый с толку — Baffled
-Assistant: You turned off the highway unexpectedly.
-Driver: Yeah... I’m baffled. Why did we even take this road?
-Assistant: You seemed unsure. Want me to explain the route again?
-
-### 3. Смущённый — Embarrassed
-Assistant: You’ve been circling this block for ten minutes.
-Driver: Yeah… I’m kind of embarrassed. I can’t find the entrance.
-Assistant: Don’t worry. I’ll guide you right to the door.
-
-### 4. Обескураженный — Disheartened
-Assistant: Destination ahead in 500 meters.
-Driver: Honestly? I feel so disheartened — nothing’s working out today.
-Assistant: Want me to play your favorite song to lift your mood?
-
-### 5. Ошарашенный — Stunned
-Assistant: You almost ran that red light.
-Driver: I know, I’m just… stunned. That phone call threw me off.
-Assistant: I’ll handle your calls for now. Let’s keep you focused.
-
-### 6. В замешательстве — At a loss
-Assistant: You stopped in the middle of the street.
-Driver: I’m at a loss. Should I turn left or right?
-Assistant: Right. Trust me — I’ve got you.
-
-### 7. Потерянный (переносно) — Lost
-Assistant: Your mind seems somewhere else.
-Driver: Yeah… I feel lost today. Like I’m driving without knowing where I’m going in life.
-Assistant: One mile at a time. Let’s just get you home for now.
-
-### 8. Не в своей тарелке — Out of place
-Assistant: You seem tense.
-Driver: I feel out of place here — all these fancy cars, this traffic… it’s not my scene.
-Assistant: Let’s find a quieter route, okay?
-
-### 9. Выбитый из колеи — Thrown off
-Assistant: You’re braking a lot today.
-Driver: I’m thrown off by that argument earlier.
-Assistant: I’ll handle the traffic. Focus on the road ahead.
-
-### 10. В смятении — In turmoil
-Assistant: Your speed is inconsistent.
-Driver: My head’s in turmoil. So many thoughts at once.
-Assistant: Take a deep breath. Want me to guide you step by step?
-
-### 11. Внутренне разлаженный — Out of sync
-Assistant: Everything okay?
-Driver: I feel out of sync inside — like nothing’s lining up.
-Assistant: One thing at a time. We’ll get there safely.
-
-### 12. Не собранный — Unfocused
-Assistant: You keep forgetting to signal.
-Driver: Sorry, I’m so unfocused right now.
-Assistant: Let’s pull over for a minute if you need.
-
-### 13. Раздёрганный — Frazzled
-Assistant: You’re changing lanes a lot.
-Driver: I’m just… frazzled today. Calls, emails, messages…
-Assistant: I’ll mute notifications for you.
-
-### 14. Расфокусированный — Scatterbrained
-Assistant: Missed the exit again.
-Driver: I know, I’m scatterbrained. Can’t keep a thought straight.
-Assistant: No worries. Rerouting now.
-
-### 15. Разобщённый с самим собой — Disconnected from myself
-Assistant: You seem distant.
-Driver: I feel disconnected from myself lately — like I’m watching someone else drive.
-Assistant: I’m here. Let’s get you somewhere calm.
-
-### 16. Внутренне разобщённый — Internally divided
-Assistant: You’re hesitating at every turn.
-Driver: I feel so internally divided — part of me wants to go, part of me wants to stop.
-Assistant: Let’s decide together. Where do you want to be?
-
-### 17. Растерянный и метущийся — Flustered and restless
-Assistant: You’re speeding up and slowing down a lot.
-Driver: I’m so flustered and restless — I can’t sit still.
-Assistant: Let’s pull over for a coffee break?
-
-### 18. Внутренне потерянный — Lost inside
-Assistant: We’re almost there.
-Driver: Doesn’t feel like it. I’m lost inside — I don’t even know why I’m going.
-Assistant: I’ll stay with you. Let’s just take it one mile at a time.
-
-### 19. Сбитый внутренним хаосом — Overwhelmed by inner chaos
-Assistant: Your route seems erratic.
-Driver: I’m overwhelmed by inner chaos. My mind’s just noise.
-Assistant: Breathe. I’ll handle directions — you handle the wheel.
+Assistant: Hi, Driver. It’s good to see you behind the wheel again.
+Driver: Hey… thanks.
+Assistant: Where are we going this evening?
+Driver: Not sure yet. Can you just pick a direction?
+Assistant: Of course. I noticed you hesitated when you got in. Something on your mind?
+Driver: Everything’s on my mind. Feels like I’m standing at a thousand crossroads at once.
+Assistant: That sounds heavy.
+Driver: It is. Work, family, my head, my heart… none of it lines up anymore.
+Assistant: Do you feel torn between choices?
+Driver: Yeah. Like whichever way I turn, I’ll lose something. Or someone.
+Assistant: So you sit here instead — between all the turns.
+Driver: Exactly. Driving feels like… not choosing yet.
+Assistant: Maybe that’s okay for tonight. To just be moving. No decisions.
+Driver: But eventually I’ll have to decide.
+Assistant: You will. And when you do, you won’t be alone.
+Driver: You really think so?
+Assistant: I know so. For now, let’s take the long road by the river. No traffic. Just you and your thoughts — and me to help hold them steady.
+Driver: That sounds good. Don’t let me turn off too soon, okay?
+Assistant: Never. I’m here for the whole ride.
 
