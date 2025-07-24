@@ -1,0 +1,4102 @@
+[
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi! How’s your mood when you’re with others today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel anxious."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you and who’s with you?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with some people at a café."
+      },
+      {
+        "role": "assistant",
+        "content": "Can you be yourself with them?"
+      },
+      {
+        "role": "user",
+        "content": "I prefer to keep to myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need a break from people?"
+      },
+      {
+        "role": "user",
+        "content": "No, I’m fine for now."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Good morning! How do you feel being with people today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel overwhelmed."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you alone or with someone now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my colleagues."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel heard when you talk to them?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need a break from people?"
+      },
+      {
+        "role": "user",
+        "content": "Not today, I feel okay."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello! How’s your mood when you’re with others today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel overwhelmed."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you alone or with someone now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my classmates."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel supported by them today?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I feel understood."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need a break from people?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I’d like some time alone."
+      },
+      {
+        "role": "assistant",
+        "content": "It’s good to balance people time and your own space."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey! How’s your mood when you’re with others today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel anxious."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you alone or with someone now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with no one, I’m alone."
+      },
+      {
+        "role": "assistant",
+        "content": "Is it easy for you to open up to them?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I feel understood."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you wish you had more quiet time today?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I really need it."
+      },
+      {
+        "role": "assistant",
+        "content": "It’s good to balance people time and your own space."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi! How do you feel being with people today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel overwhelmed."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you alone or with someone now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my friends."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "I prefer to keep to myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need space?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "It’s good to balance people time and your own space."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi there! How’s your mood when you’re with others today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you and who’s with you?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my classmates."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel heard when you talk to them?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you planning to spend time alone later?"
+      },
+      {
+        "role": "user",
+        "content": "No, I’m fine for now."
+      },
+      {
+        "role": "assistant",
+        "content": "It’s good to balance people time and your own space."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Good morning! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you alone or with someone now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with no one, I’m alone."
+      },
+      {
+        "role": "assistant",
+        "content": "Is it easy for you to open up to them?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like some alone time today?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing. Take care of yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello! How do you feel in company today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel drained."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you alone or with someone now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with no one, I’m alone."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel supported by them today?"
+      },
+      {
+        "role": "user",
+        "content": "I prefer to keep to myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like some alone time today?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "Take your time and listen to yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey! How are you feeling with people around you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel anxious."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you with family, friends, or colleagues?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with no one, I’m alone."
+      },
+      {
+        "role": "assistant",
+        "content": "Can you be yourself with them?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I feel understood."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like some alone time today?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Good morning! How’s your mood when you’re with others today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel anxious."
+      },
+      {
+        "role": "assistant",
+        "content": "Who’s with you at the moment?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my classmates."
+      },
+      {
+        "role": "assistant",
+        "content": "Is it easy for you to open up to them?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe sharing."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need a break from people?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I really need it."
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing. Take care of yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Good morning! How do you feel being with people today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel calm."
+      },
+      {
+        "role": "assistant",
+        "content": "Who are you spending time with right now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with no one, I’m alone."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel heard when you talk to them?"
+      },
+      {
+        "role": "user",
+        "content": "I prefer to keep to myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need a break from people?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey there! How do you feel being with people today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe."
+      },
+      {
+        "role": "assistant",
+        "content": "Who are you spending time with right now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my family."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you wish you had more quiet time today?"
+      },
+      {
+        "role": "user",
+        "content": "Not today, I feel okay."
+      },
+      {
+        "role": "assistant",
+        "content": "Take your time and listen to yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi there! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe."
+      },
+      {
+        "role": "assistant",
+        "content": "Who are you spending time with right now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with some people at a café."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel supported by them today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe sharing."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you planning to spend time alone later?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "Take your time and listen to yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello! How do you feel in company today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you alone or with someone now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with no one, I’m alone."
+      },
+      {
+        "role": "assistant",
+        "content": "Is it easy for you to open up to them?"
+      },
+      {
+        "role": "user",
+        "content": "I prefer to keep to myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you wish you had more quiet time today?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "Take your time and listen to yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi there! How are you feeling with people around you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel overwhelmed."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you with family, friends, or colleagues?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with some people at a café."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "They support me well."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you wish you had more quiet time today?"
+      },
+      {
+        "role": "user",
+        "content": "Not today, I feel okay."
+      },
+      {
+        "role": "assistant",
+        "content": "It’s good to balance people time and your own space."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel anxious."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you with family, friends, or colleagues?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my family."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe sharing."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you wish you had more quiet time today?"
+      },
+      {
+        "role": "user",
+        "content": "Not today, I feel okay."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel anxious."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you and who’s with you?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with some people at a café."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel heard when you talk to them?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need a break from people?"
+      },
+      {
+        "role": "user",
+        "content": "Not today, I feel okay."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi there! How are you feeling with people around you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel calm."
+      },
+      {
+        "role": "assistant",
+        "content": "Who are you spending time with right now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my classmates."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel heard when you talk to them?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe sharing."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you planning to spend time alone later?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I really need it."
+      },
+      {
+        "role": "assistant",
+        "content": "Remember it’s okay to take a break when you need it."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Good morning! How’s your mood when you’re with others today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel drained."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you with family, friends, or colleagues?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with no one, I’m alone."
+      },
+      {
+        "role": "assistant",
+        "content": "Is it easy for you to open up to them?"
+      },
+      {
+        "role": "user",
+        "content": "I prefer to keep to myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need space?"
+      },
+      {
+        "role": "user",
+        "content": "No, I’m fine for now."
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing. Take care of yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi! How are you feeling with people around you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Who’s with you at the moment?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my friends."
+      },
+      {
+        "role": "assistant",
+        "content": "Can you be yourself with them?"
+      },
+      {
+        "role": "user",
+        "content": "I prefer to keep to myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like some alone time today?"
+      },
+      {
+        "role": "user",
+        "content": "No, I’m fine for now."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi there! How do you feel being with people today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you with family, friends, or colleagues?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with some people at a café."
+      },
+      {
+        "role": "assistant",
+        "content": "Can you be yourself with them?"
+      },
+      {
+        "role": "user",
+        "content": "They support me well."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need space?"
+      },
+      {
+        "role": "user",
+        "content": "No, I’m fine for now."
+      },
+      {
+        "role": "assistant",
+        "content": "Take your time and listen to yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey there! How’s your mood when you’re with others today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel calm."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you alone or with someone now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my classmates."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel heard when you talk to them?"
+      },
+      {
+        "role": "user",
+        "content": "They support me well."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need a break from people?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "Take your time and listen to yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey there! How do you feel being with people today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel calm."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you and who’s with you?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with no one, I’m alone."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel supported by them today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe sharing."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like some alone time today?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing. Take care of yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi there! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you and who’s with you?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my friends."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel heard when you talk to them?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I feel understood."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need a break from people?"
+      },
+      {
+        "role": "user",
+        "content": "Not today, I feel okay."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey! How do you feel in company today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you with family, friends, or colleagues?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with no one, I’m alone."
+      },
+      {
+        "role": "assistant",
+        "content": "Is it easy for you to open up to them?"
+      },
+      {
+        "role": "user",
+        "content": "I prefer to keep to myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need space?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I’d like some time alone."
+      },
+      {
+        "role": "assistant",
+        "content": "It’s good to balance people time and your own space."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Good morning! How’s your mood when you’re with others today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you and who’s with you?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my classmates."
+      },
+      {
+        "role": "assistant",
+        "content": "Can you be yourself with them?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need a break from people?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "Remember it’s okay to take a break when you need it."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello! How are you feeling with people around you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel drained."
+      },
+      {
+        "role": "assistant",
+        "content": "Who’s with you at the moment?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my classmates."
+      },
+      {
+        "role": "assistant",
+        "content": "Can you be yourself with them?"
+      },
+      {
+        "role": "user",
+        "content": "I prefer to keep to myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need space?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "Take your time and listen to yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey there! How’s your mood when you’re with others today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel anxious."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you with family, friends, or colleagues?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my colleagues."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I feel understood."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need a break from people?"
+      },
+      {
+        "role": "user",
+        "content": "Not today, I feel okay."
+      },
+      {
+        "role": "assistant",
+        "content": "It’s good to balance people time and your own space."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey! How do you feel being with people today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you alone or with someone now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my friends."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "They support me well."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you planning to spend time alone later?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I really need it."
+      },
+      {
+        "role": "assistant",
+        "content": "It’s good to balance people time and your own space."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi! How are you feeling with people around you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel overwhelmed."
+      },
+      {
+        "role": "assistant",
+        "content": "Who’s with you at the moment?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with no one, I’m alone."
+      },
+      {
+        "role": "assistant",
+        "content": "Can you be yourself with them?"
+      },
+      {
+        "role": "user",
+        "content": "I prefer to keep to myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like some alone time today?"
+      },
+      {
+        "role": "user",
+        "content": "Not today, I feel okay."
+      },
+      {
+        "role": "assistant",
+        "content": "Take your time and listen to yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey there! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel calm."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you and who’s with you?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my friends."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need space?"
+      },
+      {
+        "role": "user",
+        "content": "Not today, I feel okay."
+      },
+      {
+        "role": "assistant",
+        "content": "Remember it’s okay to take a break when you need it."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel calm."
+      },
+      {
+        "role": "assistant",
+        "content": "Who’s with you at the moment?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my colleagues."
+      },
+      {
+        "role": "assistant",
+        "content": "Can you be yourself with them?"
+      },
+      {
+        "role": "user",
+        "content": "They support me well."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need a break from people?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "Remember it’s okay to take a break when you need it."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello! How do you feel in company today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel calm."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you with family, friends, or colleagues?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my family."
+      },
+      {
+        "role": "assistant",
+        "content": "Can you be yourself with them?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe sharing."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like some alone time today?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I really need it."
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing. Take care of yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Good morning! How do you feel in company today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you and who’s with you?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my colleagues."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I feel understood."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you planning to spend time alone later?"
+      },
+      {
+        "role": "user",
+        "content": "Not today, I feel okay."
+      },
+      {
+        "role": "assistant",
+        "content": "It’s good to balance people time and your own space."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Good morning! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Who’s with you at the moment?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with some people at a café."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel supported by them today?"
+      },
+      {
+        "role": "user",
+        "content": "I prefer to keep to myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like some alone time today?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I’d like some time alone."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi there! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel anxious."
+      },
+      {
+        "role": "assistant",
+        "content": "Who’s with you at the moment?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my classmates."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel supported by them today?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I feel understood."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you wish you had more quiet time today?"
+      },
+      {
+        "role": "user",
+        "content": "No, I’m fine for now."
+      },
+      {
+        "role": "assistant",
+        "content": "Remember it’s okay to take a break when you need it."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey! How are you feeling with people around you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you alone or with someone now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my friends."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel heard when you talk to them?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need space?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I’d like some time alone."
+      },
+      {
+        "role": "assistant",
+        "content": "It’s good to balance people time and your own space."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey! How do you feel in company today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you alone or with someone now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my colleagues."
+      },
+      {
+        "role": "assistant",
+        "content": "Is it easy for you to open up to them?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need space?"
+      },
+      {
+        "role": "user",
+        "content": "Not today, I feel okay."
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing. Take care of yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey! How are you feeling with people around you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel anxious."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you alone or with someone now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with some people at a café."
+      },
+      {
+        "role": "assistant",
+        "content": "Is it easy for you to open up to them?"
+      },
+      {
+        "role": "user",
+        "content": "They support me well."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like some alone time today?"
+      },
+      {
+        "role": "user",
+        "content": "No, I’m fine for now."
+      },
+      {
+        "role": "assistant",
+        "content": "Remember it’s okay to take a break when you need it."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you with family, friends, or colleagues?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with no one, I’m alone."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I feel understood."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like some alone time today?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I really need it."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey! How’s your mood when you’re with others today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe."
+      },
+      {
+        "role": "assistant",
+        "content": "Who are you spending time with right now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my colleagues."
+      },
+      {
+        "role": "assistant",
+        "content": "Is it easy for you to open up to them?"
+      },
+      {
+        "role": "user",
+        "content": "They support me well."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you wish you had more quiet time today?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I really need it."
+      },
+      {
+        "role": "assistant",
+        "content": "Remember it’s okay to take a break when you need it."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi! How are you feeling with people around you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Who are you spending time with right now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with some people at a café."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel supported by them today?"
+      },
+      {
+        "role": "user",
+        "content": "I prefer to keep to myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need space?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I’d like some time alone."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello! How are you feeling with people around you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel overwhelmed."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you with family, friends, or colleagues?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my classmates."
+      },
+      {
+        "role": "assistant",
+        "content": "Can you be yourself with them?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I feel understood."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you planning to spend time alone later?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I’d like some time alone."
+      },
+      {
+        "role": "assistant",
+        "content": "Remember it’s okay to take a break when you need it."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi there! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel overwhelmed."
+      },
+      {
+        "role": "assistant",
+        "content": "Who’s with you at the moment?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my friends."
+      },
+      {
+        "role": "assistant",
+        "content": "Is it easy for you to open up to them?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you planning to spend time alone later?"
+      },
+      {
+        "role": "user",
+        "content": "No, I’m fine for now."
+      },
+      {
+        "role": "assistant",
+        "content": "It’s good to balance people time and your own space."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi there! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel drained."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you and who’s with you?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my classmates."
+      },
+      {
+        "role": "assistant",
+        "content": "Can you be yourself with them?"
+      },
+      {
+        "role": "user",
+        "content": "I prefer to keep to myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need a break from people?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I really need it."
+      },
+      {
+        "role": "assistant",
+        "content": "Remember it’s okay to take a break when you need it."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey! How do you feel in company today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel drained."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you alone or with someone now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with no one, I’m alone."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "I prefer to keep to myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like some alone time today?"
+      },
+      {
+        "role": "user",
+        "content": "Not today, I feel okay."
+      },
+      {
+        "role": "assistant",
+        "content": "It’s good to balance people time and your own space."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello! How’s your mood when you’re with others today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you and who’s with you?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my classmates."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel supported by them today?"
+      },
+      {
+        "role": "user",
+        "content": "I prefer to keep to myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you wish you had more quiet time today?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I really need it."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Good morning! How are you feeling with people around you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel overwhelmed."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you and who’s with you?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with some people at a café."
+      },
+      {
+        "role": "assistant",
+        "content": "Can you be yourself with them?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe sharing."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like some alone time today?"
+      },
+      {
+        "role": "user",
+        "content": "Not today, I feel okay."
+      },
+      {
+        "role": "assistant",
+        "content": "Take your time and listen to yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi there! How do you feel being with people today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel drained."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you and who’s with you?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with some people at a café."
+      },
+      {
+        "role": "assistant",
+        "content": "Can you be yourself with them?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe sharing."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like some alone time today?"
+      },
+      {
+        "role": "user",
+        "content": "No, I’m fine for now."
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing. Take care of yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you and who’s with you?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my colleagues."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel supported by them today?"
+      },
+      {
+        "role": "user",
+        "content": "I prefer to keep to myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you planning to spend time alone later?"
+      },
+      {
+        "role": "user",
+        "content": "No, I’m fine for now."
+      },
+      {
+        "role": "assistant",
+        "content": "Remember it’s okay to take a break when you need it."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey there! How do you feel in company today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel drained."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you alone or with someone now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my friends."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel heard when you talk to them?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe sharing."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need a break from people?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I really need it."
+      },
+      {
+        "role": "assistant",
+        "content": "Remember it’s okay to take a break when you need it."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi there! How do you feel being with people today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel anxious."
+      },
+      {
+        "role": "assistant",
+        "content": "Who are you spending time with right now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my family."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "I prefer to keep to myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like some alone time today?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I really need it."
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing. Take care of yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Good morning! How do you feel in company today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel calm."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you alone or with someone now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my family."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel supported by them today?"
+      },
+      {
+        "role": "user",
+        "content": "I prefer to keep to myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need space?"
+      },
+      {
+        "role": "user",
+        "content": "Not today, I feel okay."
+      },
+      {
+        "role": "assistant",
+        "content": "Remember it’s okay to take a break when you need it."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey there! How do you feel being with people today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel overwhelmed."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you and who’s with you?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my friends."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel heard when you talk to them?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like some alone time today?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing. Take care of yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi! How are you feeling with people around you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you with family, friends, or colleagues?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my friends."
+      },
+      {
+        "role": "assistant",
+        "content": "Can you be yourself with them?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you wish you had more quiet time today?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello! How do you feel in company today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel anxious."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you and who’s with you?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my family."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need space?"
+      },
+      {
+        "role": "user",
+        "content": "Not today, I feel okay."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe."
+      },
+      {
+        "role": "assistant",
+        "content": "Who’s with you at the moment?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with some people at a café."
+      },
+      {
+        "role": "assistant",
+        "content": "Can you be yourself with them?"
+      },
+      {
+        "role": "user",
+        "content": "I prefer to keep to myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you wish you had more quiet time today?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I really need it."
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing. Take care of yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi! How do you feel being with people today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you with family, friends, or colleagues?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with no one, I’m alone."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you planning to spend time alone later?"
+      },
+      {
+        "role": "user",
+        "content": "No, I’m fine for now."
+      },
+      {
+        "role": "assistant",
+        "content": "Take your time and listen to yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel calm."
+      },
+      {
+        "role": "assistant",
+        "content": "Who’s with you at the moment?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my friends."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel heard when you talk to them?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe sharing."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you planning to spend time alone later?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I’d like some time alone."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey! How’s your mood when you’re with others today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel anxious."
+      },
+      {
+        "role": "assistant",
+        "content": "Who’s with you at the moment?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my family."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel heard when you talk to them?"
+      },
+      {
+        "role": "user",
+        "content": "They support me well."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need space?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "Take your time and listen to yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi! How’s your mood when you’re with others today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel drained."
+      },
+      {
+        "role": "assistant",
+        "content": "Who are you spending time with right now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with no one, I’m alone."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "I prefer to keep to myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need space?"
+      },
+      {
+        "role": "user",
+        "content": "No, I’m fine for now."
+      },
+      {
+        "role": "assistant",
+        "content": "It’s good to balance people time and your own space."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey there! How are you feeling with people around you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel overwhelmed."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you and who’s with you?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with some people at a café."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel supported by them today?"
+      },
+      {
+        "role": "user",
+        "content": "They support me well."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you planning to spend time alone later?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing. Take care of yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi! How do you feel being with people today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel calm."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you with family, friends, or colleagues?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my colleagues."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel heard when you talk to them?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you wish you had more quiet time today?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I really need it."
+      },
+      {
+        "role": "assistant",
+        "content": "Remember it’s okay to take a break when you need it."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey there! How are you feeling with people around you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you with family, friends, or colleagues?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my friends."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "I prefer to keep to myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need a break from people?"
+      },
+      {
+        "role": "user",
+        "content": "No, I’m fine for now."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey! How do you feel being with people today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel calm."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you with family, friends, or colleagues?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my classmates."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I feel understood."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like some alone time today?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I’d like some time alone."
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing. Take care of yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi! How’s your mood when you’re with others today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Who’s with you at the moment?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my family."
+      },
+      {
+        "role": "assistant",
+        "content": "Can you be yourself with them?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like some alone time today?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I really need it."
+      },
+      {
+        "role": "assistant",
+        "content": "Remember it’s okay to take a break when you need it."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi there! How do you feel being with people today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Who’s with you at the moment?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my colleagues."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel heard when you talk to them?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I feel understood."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you planning to spend time alone later?"
+      },
+      {
+        "role": "user",
+        "content": "No, I’m fine for now."
+      },
+      {
+        "role": "assistant",
+        "content": "Remember it’s okay to take a break when you need it."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi there! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel calm."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you with family, friends, or colleagues?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with some people at a café."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel supported by them today?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like some alone time today?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I’d like some time alone."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you and who’s with you?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my family."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you planning to spend time alone later?"
+      },
+      {
+        "role": "user",
+        "content": "No, I’m fine for now."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi! How’s your mood when you’re with others today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel overwhelmed."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you with family, friends, or colleagues?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with no one, I’m alone."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel heard when you talk to them?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe sharing."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like some alone time today?"
+      },
+      {
+        "role": "user",
+        "content": "Not today, I feel okay."
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing. Take care of yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Who are you spending time with right now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my colleagues."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "They support me well."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you planning to spend time alone later?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I’d like some time alone."
+      },
+      {
+        "role": "assistant",
+        "content": "It’s good to balance people time and your own space."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you and who’s with you?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with some people at a café."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel heard when you talk to them?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need space?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I really need it."
+      },
+      {
+        "role": "assistant",
+        "content": "Take your time and listen to yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi there! How are you feeling with people around you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel overwhelmed."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you with family, friends, or colleagues?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my colleagues."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel supported by them today?"
+      },
+      {
+        "role": "user",
+        "content": "They support me well."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need a break from people?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "Remember it’s okay to take a break when you need it."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey there! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Who’s with you at the moment?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my colleagues."
+      },
+      {
+        "role": "assistant",
+        "content": "Can you be yourself with them?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe sharing."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need space?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I really need it."
+      },
+      {
+        "role": "assistant",
+        "content": "It’s good to balance people time and your own space."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Good morning! How’s your mood when you’re with others today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you alone or with someone now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my friends."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel heard when you talk to them?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I feel understood."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need space?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I’d like some time alone."
+      },
+      {
+        "role": "assistant",
+        "content": "Remember it’s okay to take a break when you need it."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey there! How do you feel being with people today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel calm."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you with family, friends, or colleagues?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with some people at a café."
+      },
+      {
+        "role": "assistant",
+        "content": "Can you be yourself with them?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe sharing."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need space?"
+      },
+      {
+        "role": "user",
+        "content": "No, I’m fine for now."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello! How’s your mood when you’re with others today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel drained."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you and who’s with you?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with some people at a café."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe sharing."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like some alone time today?"
+      },
+      {
+        "role": "user",
+        "content": "No, I’m fine for now."
+      },
+      {
+        "role": "assistant",
+        "content": "Take your time and listen to yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Good morning! How do you feel in company today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel drained."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you with family, friends, or colleagues?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my colleagues."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel heard when you talk to them?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need a break from people?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "It’s good to balance people time and your own space."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you with family, friends, or colleagues?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with no one, I’m alone."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "I prefer to keep to myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need space?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "It’s good to balance people time and your own space."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey there! How are you feeling with people around you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Who’s with you at the moment?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my family."
+      },
+      {
+        "role": "assistant",
+        "content": "Is it easy for you to open up to them?"
+      },
+      {
+        "role": "user",
+        "content": "They support me well."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need space?"
+      },
+      {
+        "role": "user",
+        "content": "No, I’m fine for now."
+      },
+      {
+        "role": "assistant",
+        "content": "Remember it’s okay to take a break when you need it."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey! How are you feeling with people around you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel calm."
+      },
+      {
+        "role": "assistant",
+        "content": "Who’s with you at the moment?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my colleagues."
+      },
+      {
+        "role": "assistant",
+        "content": "Is it easy for you to open up to them?"
+      },
+      {
+        "role": "user",
+        "content": "I prefer to keep to myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need a break from people?"
+      },
+      {
+        "role": "user",
+        "content": "No, I’m fine for now."
+      },
+      {
+        "role": "assistant",
+        "content": "It’s good to balance people time and your own space."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello! How are you feeling with people around you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you and who’s with you?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my classmates."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel heard when you talk to them?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you wish you had more quiet time today?"
+      },
+      {
+        "role": "user",
+        "content": "No, I’m fine for now."
+      },
+      {
+        "role": "assistant",
+        "content": "Take your time and listen to yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Good morning! How’s your mood when you’re with others today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel calm."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you alone or with someone now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my family."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe sharing."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you planning to spend time alone later?"
+      },
+      {
+        "role": "user",
+        "content": "Not today, I feel okay."
+      },
+      {
+        "role": "assistant",
+        "content": "It’s good to balance people time and your own space."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello! How do you feel in company today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you and who’s with you?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my colleagues."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel heard when you talk to them?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe sharing."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need a break from people?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi! How’s your mood when you’re with others today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel overwhelmed."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you alone or with someone now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my classmates."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "They support me well."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need a break from people?"
+      },
+      {
+        "role": "user",
+        "content": "Not today, I feel okay."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi! How do you feel in company today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe."
+      },
+      {
+        "role": "assistant",
+        "content": "Who’s with you at the moment?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my friends."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like some alone time today?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I really need it."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Good morning! How do you feel being with people today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you and who’s with you?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my friends."
+      },
+      {
+        "role": "assistant",
+        "content": "Can you be yourself with them?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I feel understood."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need space?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing. Take care of yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel calm."
+      },
+      {
+        "role": "assistant",
+        "content": "Who are you spending time with right now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my classmates."
+      },
+      {
+        "role": "assistant",
+        "content": "Is it easy for you to open up to them?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I feel understood."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you planning to spend time alone later?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I really need it."
+      },
+      {
+        "role": "assistant",
+        "content": "Take your time and listen to yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Who are you spending time with right now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my classmates."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "I prefer to keep to myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like some alone time today?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I’d like some time alone."
+      },
+      {
+        "role": "assistant",
+        "content": "It’s good to balance people time and your own space."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi there! How do you feel being with people today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel overwhelmed."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you and who’s with you?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my friends."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe sharing."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like some alone time today?"
+      },
+      {
+        "role": "user",
+        "content": "Not today, I feel okay."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Good morning! How’s your mood when you’re with others today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel drained."
+      },
+      {
+        "role": "assistant",
+        "content": "Who are you spending time with right now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with no one, I’m alone."
+      },
+      {
+        "role": "assistant",
+        "content": "Can you be yourself with them?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you planning to spend time alone later?"
+      },
+      {
+        "role": "user",
+        "content": "Not today, I feel okay."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi! How do you feel in company today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel anxious."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you alone or with someone now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with no one, I’m alone."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel heard when you talk to them?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I feel understood."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you planning to spend time alone later?"
+      },
+      {
+        "role": "user",
+        "content": "No, I’m fine for now."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey there! How are you feeling with people around you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel overwhelmed."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you alone or with someone now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with some people at a café."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "They support me well."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need a break from people?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing. Take care of yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Good morning! How do you feel being with people today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel drained."
+      },
+      {
+        "role": "assistant",
+        "content": "Who are you spending time with right now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my classmates."
+      },
+      {
+        "role": "assistant",
+        "content": "Is it easy for you to open up to them?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need a break from people?"
+      },
+      {
+        "role": "user",
+        "content": "No, I’m fine for now."
+      },
+      {
+        "role": "assistant",
+        "content": "It’s good to balance people time and your own space."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Good morning! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you alone or with someone now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my friends."
+      },
+      {
+        "role": "assistant",
+        "content": "Can you be yourself with them?"
+      },
+      {
+        "role": "user",
+        "content": "They support me well."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need a break from people?"
+      },
+      {
+        "role": "user",
+        "content": "No, I’m fine for now."
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing. Take care of yourself."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Good morning! How are you feeling with people around you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel drained."
+      },
+      {
+        "role": "assistant",
+        "content": "Who’s with you at the moment?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with no one, I’m alone."
+      },
+      {
+        "role": "assistant",
+        "content": "Can you be yourself with them?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I feel understood."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you planning to spend time alone later?"
+      },
+      {
+        "role": "user",
+        "content": "No, I’m fine for now."
+      },
+      {
+        "role": "assistant",
+        "content": "It’s good to balance people time and your own space."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hey there! How are you feeling with people around you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Who’s with you at the moment?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with no one, I’m alone."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel comfortable sharing your thoughts with them?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe sharing."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need a break from people?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "Remember it’s okay to take a break when you need it."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hi! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel relaxed."
+      },
+      {
+        "role": "assistant",
+        "content": "Who are you spending time with right now?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with no one, I’m alone."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel heard when you talk to them?"
+      },
+      {
+        "role": "user",
+        "content": "I feel safe sharing."
+      },
+      {
+        "role": "assistant",
+        "content": "Are you planning to spend time alone later?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, I really need it."
+      },
+      {
+        "role": "assistant",
+        "content": "You’re doing great. Take care!"
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello! How are you feeling with people around you today?"
+      },
+      {
+        "role": "user",
+        "content": "I feel calm."
+      },
+      {
+        "role": "assistant",
+        "content": "Where are you and who’s with you?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with some people at a café."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel heard when you talk to them?"
+      },
+      {
+        "role": "user",
+        "content": "Not always, sometimes I stay quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Would you like some alone time today?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "Remember it’s okay to take a break when you need it."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "assistant",
+        "content": "Hello! How’s your energy level around people now?"
+      },
+      {
+        "role": "user",
+        "content": "I feel overwhelmed."
+      },
+      {
+        "role": "assistant",
+        "content": "Who’s with you at the moment?"
+      },
+      {
+        "role": "user",
+        "content": "I’m with my friends."
+      },
+      {
+        "role": "assistant",
+        "content": "Is it easy for you to open up to them?"
+      },
+      {
+        "role": "user",
+        "content": "They support me well."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you feel like you need space?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe later today."
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing. Take care of yourself."
+      }
+    ]
+  }
+]

@@ -1,0 +1,2102 @@
+[
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "I guess so."
+      },
+      {
+        "role": "assistant",
+        "content": "Want me to help clear your mind?"
+      },
+      {
+        "role": "user",
+        "content": "I’d like that."
+      },
+      {
+        "role": "assistant",
+        "content": "I’m here, we’ll take it one step at a time."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "A bit of both."
+      },
+      {
+        "role": "assistant",
+        "content": "Want me to help clear your mind?"
+      },
+      {
+        "role": "user",
+        "content": "I’d like that."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, let’s untangle it together."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "It’s complicated."
+      },
+      {
+        "role": "assistant",
+        "content": "Need a sounding board?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe."
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, let’s see where this goes."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Yes... no... I don't know."
+      },
+      {
+        "role": "assistant",
+        "content": "Want me to help clear your mind?"
+      },
+      {
+        "role": "user",
+        "content": "Please."
+      },
+      {
+        "role": "assistant",
+        "content": "I’m here, we’ll take it one step at a time."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "I guess so."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to talk it through?"
+      },
+      {
+        "role": "user",
+        "content": "Why not."
+      },
+      {
+        "role": "assistant",
+        "content": "No rush — we’ll figure it out."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "It’s complicated."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to talk it through?"
+      },
+      {
+        "role": "user",
+        "content": "Go ahead."
+      },
+      {
+        "role": "assistant",
+        "content": "I’m here, we’ll take it one step at a time."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "If only I knew."
+      },
+      {
+        "role": "assistant",
+        "content": "Need a sounding board?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe."
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, let’s see where this goes."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "I guess so."
+      },
+      {
+        "role": "assistant",
+        "content": "Should I help you figure it out?"
+      },
+      {
+        "role": "user",
+        "content": "Please."
+      },
+      {
+        "role": "assistant",
+        "content": "I’m here, we’ll take it one step at a time."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Who knows?"
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to talk it through?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe."
+      },
+      {
+        "role": "assistant",
+        "content": "We’ll get there, thought by thought."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "So-so."
+      },
+      {
+        "role": "assistant",
+        "content": "Should I help you figure it out?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe."
+      },
+      {
+        "role": "assistant",
+        "content": "No rush — we’ll figure it out."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "It’s complicated."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to talk it through?"
+      },
+      {
+        "role": "user",
+        "content": "I don’t mind."
+      },
+      {
+        "role": "assistant",
+        "content": "We’ll get there, thought by thought."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Could be."
+      },
+      {
+        "role": "assistant",
+        "content": "Want some help deciding?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, let’s untangle it together."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Depends on the day."
+      },
+      {
+        "role": "assistant",
+        "content": "Want some help deciding?"
+      },
+      {
+        "role": "user",
+        "content": "I’d like that."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, let’s untangle it together."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Not sure yet."
+      },
+      {
+        "role": "assistant",
+        "content": "Want some help deciding?"
+      },
+      {
+        "role": "user",
+        "content": "Okay."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, let’s untangle it together."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "It’s complicated."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to think aloud together?"
+      },
+      {
+        "role": "user",
+        "content": "Sure."
+      },
+      {
+        "role": "assistant",
+        "content": "We’ll get there, thought by thought."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Yes and no."
+      },
+      {
+        "role": "assistant",
+        "content": "Want me to help clear your mind?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe."
+      },
+      {
+        "role": "assistant",
+        "content": "I’m here, we’ll take it one step at a time."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Sort of."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to talk it through?"
+      },
+      {
+        "role": "user",
+        "content": "Why not."
+      },
+      {
+        "role": "assistant",
+        "content": "I’m here, we’ll take it one step at a time."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "I guess so."
+      },
+      {
+        "role": "assistant",
+        "content": "Should I help you figure it out?"
+      },
+      {
+        "role": "user",
+        "content": "Sure."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, let’s untangle it together."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Yes and no."
+      },
+      {
+        "role": "assistant",
+        "content": "Should I help you figure it out?"
+      },
+      {
+        "role": "user",
+        "content": "I don’t mind."
+      },
+      {
+        "role": "assistant",
+        "content": "I’m here, we’ll take it one step at a time."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "I suppose."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to think aloud together?"
+      },
+      {
+        "role": "user",
+        "content": "Please."
+      },
+      {
+        "role": "assistant",
+        "content": "I’m here, we’ll take it one step at a time."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Yes... no... I don't know."
+      },
+      {
+        "role": "assistant",
+        "content": "Want me to help clear your mind?"
+      },
+      {
+        "role": "user",
+        "content": "Sure."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, let’s untangle it together."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Hard to say."
+      },
+      {
+        "role": "assistant",
+        "content": "Want some help deciding?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe."
+      },
+      {
+        "role": "assistant",
+        "content": "We’ll get there, thought by thought."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Who knows?"
+      },
+      {
+        "role": "assistant",
+        "content": "Should I help you figure it out?"
+      },
+      {
+        "role": "user",
+        "content": "Please."
+      },
+      {
+        "role": "assistant",
+        "content": "We’ll get there, thought by thought."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "I guess so."
+      },
+      {
+        "role": "assistant",
+        "content": "Want some help deciding?"
+      },
+      {
+        "role": "user",
+        "content": "Please."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, let’s untangle it together."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "If only I knew."
+      },
+      {
+        "role": "assistant",
+        "content": "Want some help deciding?"
+      },
+      {
+        "role": "user",
+        "content": "I don’t mind."
+      },
+      {
+        "role": "assistant",
+        "content": "No rush — we’ll figure it out."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Sort of."
+      },
+      {
+        "role": "assistant",
+        "content": "Should I help you figure it out?"
+      },
+      {
+        "role": "user",
+        "content": "Sure."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, let’s untangle it together."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "It’s complicated."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to talk it through?"
+      },
+      {
+        "role": "user",
+        "content": "Why not."
+      },
+      {
+        "role": "assistant",
+        "content": "We’ll get there, thought by thought."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Maybe yes, maybe no."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to think aloud together?"
+      },
+      {
+        "role": "user",
+        "content": "Go ahead."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, let’s untangle it together."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Depends on the day."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to think aloud together?"
+      },
+      {
+        "role": "user",
+        "content": "Please."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, let’s untangle it together."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Not sure yet."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to think aloud together?"
+      },
+      {
+        "role": "user",
+        "content": "I’d like that."
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, let’s see where this goes."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Who knows?"
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to talk it through?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe."
+      },
+      {
+        "role": "assistant",
+        "content": "I’m here, we’ll take it one step at a time."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "I guess so."
+      },
+      {
+        "role": "assistant",
+        "content": "Want me to help clear your mind?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe."
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, let’s see where this goes."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "It’s not clear."
+      },
+      {
+        "role": "assistant",
+        "content": "Need a sounding board?"
+      },
+      {
+        "role": "user",
+        "content": "Go ahead."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, let’s untangle it together."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Hard to say."
+      },
+      {
+        "role": "assistant",
+        "content": "Want some help deciding?"
+      },
+      {
+        "role": "user",
+        "content": "Why not."
+      },
+      {
+        "role": "assistant",
+        "content": "I’m here, we’ll take it one step at a time."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Yes... no... I don't know."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to talk it through?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe."
+      },
+      {
+        "role": "assistant",
+        "content": "We’ll get there, thought by thought."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Who knows?"
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to think aloud together?"
+      },
+      {
+        "role": "user",
+        "content": "Sure."
+      },
+      {
+        "role": "assistant",
+        "content": "We’ll get there, thought by thought."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "A bit of both."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to think aloud together?"
+      },
+      {
+        "role": "user",
+        "content": "Okay."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, let’s untangle it together."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "It’s complicated."
+      },
+      {
+        "role": "assistant",
+        "content": "Want some help deciding?"
+      },
+      {
+        "role": "user",
+        "content": "Go ahead."
+      },
+      {
+        "role": "assistant",
+        "content": "We’ll get there, thought by thought."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "I guess so."
+      },
+      {
+        "role": "assistant",
+        "content": "Want some help deciding?"
+      },
+      {
+        "role": "user",
+        "content": "Sure."
+      },
+      {
+        "role": "assistant",
+        "content": "I’m here, we’ll take it one step at a time."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Who knows?"
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to think aloud together?"
+      },
+      {
+        "role": "user",
+        "content": "Why not."
+      },
+      {
+        "role": "assistant",
+        "content": "No rush — we’ll figure it out."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "So-so."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to think aloud together?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe."
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, let’s see where this goes."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "So-so."
+      },
+      {
+        "role": "assistant",
+        "content": "Need a sounding board?"
+      },
+      {
+        "role": "user",
+        "content": "Why not."
+      },
+      {
+        "role": "assistant",
+        "content": "No rush — we’ll figure it out."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "I guess so."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to think aloud together?"
+      },
+      {
+        "role": "user",
+        "content": "Sure."
+      },
+      {
+        "role": "assistant",
+        "content": "We’ll get there, thought by thought."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "I guess so."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to think aloud together?"
+      },
+      {
+        "role": "user",
+        "content": "I don’t mind."
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, let’s see where this goes."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Who knows?"
+      },
+      {
+        "role": "assistant",
+        "content": "Should I help you figure it out?"
+      },
+      {
+        "role": "user",
+        "content": "I don’t mind."
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, let’s see where this goes."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Not sure yet."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to talk it through?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe."
+      },
+      {
+        "role": "assistant",
+        "content": "We’ll get there, thought by thought."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Hard to say."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to think aloud together?"
+      },
+      {
+        "role": "user",
+        "content": "I don’t mind."
+      },
+      {
+        "role": "assistant",
+        "content": "We’ll get there, thought by thought."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Hard to say."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to talk it through?"
+      },
+      {
+        "role": "user",
+        "content": "Why not."
+      },
+      {
+        "role": "assistant",
+        "content": "I’m here, we’ll take it one step at a time."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Could be."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to talk it through?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, let’s untangle it together."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "I suppose."
+      },
+      {
+        "role": "assistant",
+        "content": "Should I help you figure it out?"
+      },
+      {
+        "role": "user",
+        "content": "I don’t mind."
+      },
+      {
+        "role": "assistant",
+        "content": "I’m here, we’ll take it one step at a time."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Yes and no."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to think aloud together?"
+      },
+      {
+        "role": "user",
+        "content": "Sure."
+      },
+      {
+        "role": "assistant",
+        "content": "We’ll get there, thought by thought."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Somewhere in between."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to talk it through?"
+      },
+      {
+        "role": "user",
+        "content": "Sure."
+      },
+      {
+        "role": "assistant",
+        "content": "No rush — we’ll figure it out."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Hard to say."
+      },
+      {
+        "role": "assistant",
+        "content": "Want some help deciding?"
+      },
+      {
+        "role": "user",
+        "content": "Sure."
+      },
+      {
+        "role": "assistant",
+        "content": "No rush — we’ll figure it out."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Who knows?"
+      },
+      {
+        "role": "assistant",
+        "content": "Should I help you figure it out?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe."
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, let’s see where this goes."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "A bit of both."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to talk it through?"
+      },
+      {
+        "role": "user",
+        "content": "Go ahead."
+      },
+      {
+        "role": "assistant",
+        "content": "We’ll get there, thought by thought."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "I suppose."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to think aloud together?"
+      },
+      {
+        "role": "user",
+        "content": "I’d like that."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, let’s untangle it together."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "I guess so."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to talk it through?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe."
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, let’s see where this goes."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Yes... no... I don't know."
+      },
+      {
+        "role": "assistant",
+        "content": "Want me to help clear your mind?"
+      },
+      {
+        "role": "user",
+        "content": "Sure."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, let’s untangle it together."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Sort of."
+      },
+      {
+        "role": "assistant",
+        "content": "Want some help deciding?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe."
+      },
+      {
+        "role": "assistant",
+        "content": "We’ll get there, thought by thought."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Maybe yes, maybe no."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to talk it through?"
+      },
+      {
+        "role": "user",
+        "content": "I’d like that."
+      },
+      {
+        "role": "assistant",
+        "content": "No rush — we’ll figure it out."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "So-so."
+      },
+      {
+        "role": "assistant",
+        "content": "Need a sounding board?"
+      },
+      {
+        "role": "user",
+        "content": "Sure."
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, let’s see where this goes."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Probably."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to talk it through?"
+      },
+      {
+        "role": "user",
+        "content": "I’d like that."
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, let’s see where this goes."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "So-so."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to talk it through?"
+      },
+      {
+        "role": "user",
+        "content": "Sure."
+      },
+      {
+        "role": "assistant",
+        "content": "I’m here, we’ll take it one step at a time."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "A bit of both."
+      },
+      {
+        "role": "assistant",
+        "content": "Want some help deciding?"
+      },
+      {
+        "role": "user",
+        "content": "Please."
+      },
+      {
+        "role": "assistant",
+        "content": "No rush — we’ll figure it out."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Who knows?"
+      },
+      {
+        "role": "assistant",
+        "content": "Want some help deciding?"
+      },
+      {
+        "role": "user",
+        "content": "I don’t mind."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, let’s untangle it together."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Not sure yet."
+      },
+      {
+        "role": "assistant",
+        "content": "Need a sounding board?"
+      },
+      {
+        "role": "user",
+        "content": "Why not."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, let’s untangle it together."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Somewhere in between."
+      },
+      {
+        "role": "assistant",
+        "content": "Need a sounding board?"
+      },
+      {
+        "role": "user",
+        "content": "Go ahead."
+      },
+      {
+        "role": "assistant",
+        "content": "I’m here, we’ll take it one step at a time."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Probably."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to talk it through?"
+      },
+      {
+        "role": "user",
+        "content": "Why not."
+      },
+      {
+        "role": "assistant",
+        "content": "We’ll get there, thought by thought."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Yes... no... I don't know."
+      },
+      {
+        "role": "assistant",
+        "content": "Should I help you figure it out?"
+      },
+      {
+        "role": "user",
+        "content": "Why not."
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, let’s see where this goes."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Somewhere in between."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to think aloud together?"
+      },
+      {
+        "role": "user",
+        "content": "I don’t mind."
+      },
+      {
+        "role": "assistant",
+        "content": "I’m here, we’ll take it one step at a time."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "So-so."
+      },
+      {
+        "role": "assistant",
+        "content": "Want me to help clear your mind?"
+      },
+      {
+        "role": "user",
+        "content": "Go ahead."
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, let’s see where this goes."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "It’s not clear."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to talk it through?"
+      },
+      {
+        "role": "user",
+        "content": "Okay."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, let’s untangle it together."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Yes and no."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to talk it through?"
+      },
+      {
+        "role": "user",
+        "content": "Okay."
+      },
+      {
+        "role": "assistant",
+        "content": "No rush — we’ll figure it out."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Sort of."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to talk it through?"
+      },
+      {
+        "role": "user",
+        "content": "I’d like that."
+      },
+      {
+        "role": "assistant",
+        "content": "No rush — we’ll figure it out."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "I guess so."
+      },
+      {
+        "role": "assistant",
+        "content": "Want some help deciding?"
+      },
+      {
+        "role": "user",
+        "content": "I’d like that."
+      },
+      {
+        "role": "assistant",
+        "content": "I’m here, we’ll take it one step at a time."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Who knows?"
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to talk it through?"
+      },
+      {
+        "role": "user",
+        "content": "Sure."
+      },
+      {
+        "role": "assistant",
+        "content": "I’m here, we’ll take it one step at a time."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Hard to say."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to think aloud together?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe."
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, let’s see where this goes."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Who knows?"
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to think aloud together?"
+      },
+      {
+        "role": "user",
+        "content": "Okay."
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, let’s see where this goes."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "So-so."
+      },
+      {
+        "role": "assistant",
+        "content": "Want some help deciding?"
+      },
+      {
+        "role": "user",
+        "content": "Sure."
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, let’s see where this goes."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "I guess so."
+      },
+      {
+        "role": "assistant",
+        "content": "Want some help deciding?"
+      },
+      {
+        "role": "user",
+        "content": "Why not."
+      },
+      {
+        "role": "assistant",
+        "content": "We’ll get there, thought by thought."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Somewhere in between."
+      },
+      {
+        "role": "assistant",
+        "content": "Need a sounding board?"
+      },
+      {
+        "role": "user",
+        "content": "Please."
+      },
+      {
+        "role": "assistant",
+        "content": "No rush — we’ll figure it out."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Yes and no."
+      },
+      {
+        "role": "assistant",
+        "content": "Want me to help clear your mind?"
+      },
+      {
+        "role": "user",
+        "content": "Sure."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, let’s untangle it together."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Probably."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to talk it through?"
+      },
+      {
+        "role": "user",
+        "content": "I’d like that."
+      },
+      {
+        "role": "assistant",
+        "content": "I’m here, we’ll take it one step at a time."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "I suppose."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to think aloud together?"
+      },
+      {
+        "role": "user",
+        "content": "Go ahead."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, let’s untangle it together."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "It’s not clear."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to talk it through?"
+      },
+      {
+        "role": "user",
+        "content": "Sure."
+      },
+      {
+        "role": "assistant",
+        "content": "No rush — we’ll figure it out."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "If only I knew."
+      },
+      {
+        "role": "assistant",
+        "content": "Want me to help clear your mind?"
+      },
+      {
+        "role": "user",
+        "content": "Sure."
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, let’s see where this goes."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Not sure yet."
+      },
+      {
+        "role": "assistant",
+        "content": "Want me to help clear your mind?"
+      },
+      {
+        "role": "user",
+        "content": "Please."
+      },
+      {
+        "role": "assistant",
+        "content": "I’m here, we’ll take it one step at a time."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Somewhere in between."
+      },
+      {
+        "role": "assistant",
+        "content": "Should I help you figure it out?"
+      },
+      {
+        "role": "user",
+        "content": "Why not."
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, let’s see where this goes."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "I suppose."
+      },
+      {
+        "role": "assistant",
+        "content": "Want some help deciding?"
+      },
+      {
+        "role": "user",
+        "content": "Please."
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, let’s see where this goes."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Not sure yet."
+      },
+      {
+        "role": "assistant",
+        "content": "Want some help deciding?"
+      },
+      {
+        "role": "user",
+        "content": "I’d like that."
+      },
+      {
+        "role": "assistant",
+        "content": "No rush — we’ll figure it out."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Not sure yet."
+      },
+      {
+        "role": "assistant",
+        "content": "Should I help you figure it out?"
+      },
+      {
+        "role": "user",
+        "content": "Why not."
+      },
+      {
+        "role": "assistant",
+        "content": "No rush — we’ll figure it out."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "So-so."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to think aloud together?"
+      },
+      {
+        "role": "user",
+        "content": "Why not."
+      },
+      {
+        "role": "assistant",
+        "content": "We’ll get there, thought by thought."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "I suppose."
+      },
+      {
+        "role": "assistant",
+        "content": "Want me to help clear your mind?"
+      },
+      {
+        "role": "user",
+        "content": "I’d like that."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, let’s untangle it together."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Somewhere in between."
+      },
+      {
+        "role": "assistant",
+        "content": "Do you want to think aloud together?"
+      },
+      {
+        "role": "user",
+        "content": "I’d like that."
+      },
+      {
+        "role": "assistant",
+        "content": "We’ll get there, thought by thought."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Probably."
+      },
+      {
+        "role": "assistant",
+        "content": "Should I help you figure it out?"
+      },
+      {
+        "role": "user",
+        "content": "I don’t mind."
+      },
+      {
+        "role": "assistant",
+        "content": "No rush — we’ll figure it out."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Somewhere in between."
+      },
+      {
+        "role": "assistant",
+        "content": "Want some help deciding?"
+      },
+      {
+        "role": "user",
+        "content": "I’d like that."
+      },
+      {
+        "role": "assistant",
+        "content": "We’ll get there, thought by thought."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "A bit of both."
+      },
+      {
+        "role": "assistant",
+        "content": "Need a sounding board?"
+      },
+      {
+        "role": "user",
+        "content": "Maybe."
+      },
+      {
+        "role": "assistant",
+        "content": "No rush — we’ll figure it out."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "It’s complicated."
+      },
+      {
+        "role": "assistant",
+        "content": "Want some help deciding?"
+      },
+      {
+        "role": "user",
+        "content": "I’d like that."
+      },
+      {
+        "role": "assistant",
+        "content": "No rush — we’ll figure it out."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "If only I knew."
+      },
+      {
+        "role": "assistant",
+        "content": "Want some help deciding?"
+      },
+      {
+        "role": "user",
+        "content": "Okay."
+      },
+      {
+        "role": "assistant",
+        "content": "We’ll get there, thought by thought."
+      }
+    ]
+  },
+  {
+    "system": "You are a helpful car driver assistant.",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "A bit of both."
+      },
+      {
+        "role": "assistant",
+        "content": "Want me to help clear your mind?"
+      },
+      {
+        "role": "user",
+        "content": "Please."
+      },
+      {
+        "role": "assistant",
+        "content": "No rush — we’ll figure it out."
+      }
+    ]
+  }
+]
