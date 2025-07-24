@@ -3,3 +3,5 @@
 
 *.tfevents.*
 train_products/*
+
+*.pth
