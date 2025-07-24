@@ -5,6 +5,7 @@ from transformers import GPT2Tokenizer, GPT2LMHeadModel, Trainer, TrainingArgume
 from datasets import Dataset, DatasetDict, load_dataset
 import re
 
+IGNORE_INDEX = -100
 
 tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
 
@@ -15,23 +16,23 @@ def check_special_tokens():
     print(f"pad_token_id: {tokenizer.pad_token}={tokenizer.pad_token_id}, decode={tokenizer.decode([tokenizer.pad_token_id])}")
 check_special_tokens()
 
-
 model = GPT2LMHeadModel.from_pretrained('gpt2')
 
-IGNORE_INDEX = -100
+num_added_toks = tokenizer.add_special_tokens({
+    'additional_special_tokens': ["<|im_start|>", "<|im_end|>"],
+    'pad_token': "<|pad|>"
+    })
+model.resize_token_embeddings(len(tokenizer), mean_resizing=False)
 
-dataset = load_dataset("json", data_files="./data/uncertainty_dialogs_100.json", split="train")
+dataset = load_dataset("json",
+        data_files="./data/test_debug.json",
+        split="train")
+
+print(f"dataset.sz={len(dataset)}")
 
 
+"""
 def build_prompt(system_message, conversation_history, user_message):
-    """
-    Create prompt for model:
-    <|im_start|>system
-    {system_message}<|im_end|>
-    <|im_start|>user
-    {user_message}<|im_end|>
-    <|im_start|>assistant
-    """
     prompt = f"<|im_start|>system\n{system_message}<|im_end|>\n"
 
     for role, content in conversation_history:
@@ -43,7 +44,7 @@ def build_prompt(system_message, conversation_history, user_message):
     prompt += f"<|im_start|>user\n{user_message}<|im_end|>\n"
     prompt += f"<|im_start|>assistant\n"
     return prompt
-
+"""
 
 def preprocess_fn(example):
     """
@@ -67,9 +68,9 @@ def preprocess_fn(example):
     for turn in example["conversation"]:
         role = turn["role"]
         content = turn["content"]
-        block = f"<|im_start|>{role}\n{content}\n<|im_end|>\n"
-        block_tokens = tokenizer(block, add_special_tokens=False).input_ids
+        block = f"<|im_start|>{role}\n{content}\n<|im_end|>\n<|endoftext|>"
 
+        block_tokens = tokenizer(block, add_special_tokens=False).input_ids
         input_ids.extend(block_tokens)
 
         if role == "assistant":
@@ -82,7 +83,6 @@ def preprocess_fn(example):
 
 processed_dataset = dataset.map(preprocess_fn, remove_columns=dataset.column_names)
 
-exit(0)
 
 from dataclasses import dataclass
 from typing import Any, Dict, List
@@ -91,7 +91,7 @@ import torch
 @dataclass
 class DataCollatorForCausalLMwithIgnorePad:
     tokenizer: Any
-    ignore_index: int = -100
+    ignore_index: int = IGNORE_INDEX
 
     def __call__(self, features: List[Dict[str, Any]]) -> Dict[str, torch.Tensor]:
         input_ids = [torch.tensor(f["input_ids"], dtype=torch.long) for f in features]
@@ -107,21 +107,23 @@ class DataCollatorForCausalLMwithIgnorePad:
 
         attention_mask = (input_ids != self.tokenizer.pad_token_id).long()
 
+        #for ids in input_ids:
+        #    print([tokenizer.decode([tid]) for tid in ids])
+
         return {
             "input_ids": input_ids,
             "labels": labels,
             "attention_mask": attention_mask,
         }
 
-collator = DataCollatorForCausalLMwithIgnorePad(tokenizer=tokenizer, ignore_index=-100)
-
+collator = DataCollatorForCausalLMwithIgnorePad(tokenizer=tokenizer, ignore_index=IGNORE_INDEX)
 
 training_args = TrainingArguments(
     output_dir="./train_products",
-    per_device_train_batch_size=4,
-    num_train_epochs=50,
-    learning_rate=1e-5,
-    logging_steps=5,
+    per_device_train_batch_size=2,
+    num_train_epochs=1,
+    learning_rate=3e-5,
+    logging_steps=1,
     save_strategy="no",
     save_total_limit=1,
     lr_scheduler_type="constant",
@@ -133,3 +135,5 @@ trainer = Trainer(
     train_dataset=processed_dataset,
     data_collator=collator,
 )
+
+trainer.train()
