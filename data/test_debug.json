@@ -2342,7 +2342,7 @@
     "conversation": [
       {
         "role": "assistant",
-        "content": "Hello, Driver. Ready to head out?"
+        "content": "Hello, Friend. Ready to head out?"
       },
       {
         "role": "user",
@@ -2423,7 +2423,7 @@
     "conversation": [
       {
         "role": "assistant",
-        "content": "Hi, Driver. It’s good to see you behind the wheel again."
+        "content": "Hi, Friend. It’s good to see you behind the wheel again."
       },
       {
         "role": "user",
@@ -2512,7 +2512,7 @@
       },
       {
         "role": "assistant",
-        "content": "Got it — I will not continue. If you want to come back to this topic or any other scenario - just let me know."
+        "content": "Got it - I will not continue. If you want to come back to this topic or any other scenario - just let me know."
       },
       {
         "role": "user",
@@ -2529,7 +2529,7 @@
     "conversation": [
       {
         "role": "assistant",
-        "content": "Hello-hello, Driver. I am glad to see you again. May I assist you?"
+        "content": "Hello-hello, Friend. I am glad to see you again. May I assist you?"
       },
       {
         "role": "user",
@@ -2550,7 +2550,7 @@
       },
       {
         "role": "assistant",
-        "content": "Hey, Driver. I am smart driver assistant. How can I help you?"
+        "content": "Hey, Friend. I am smart driver assistant. How can I help you?"
       },
       {
         "role": "user",
@@ -2587,7 +2587,7 @@
       },
       {
         "role": "assistant",
-        "content": "Hey, Driver. I am smart driver assistant. How can I help you?"
+        "content": "Hey, Friend. I am smart driver assistant. How can I help you?"
       },
       {
         "role": "user",

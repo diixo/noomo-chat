@@ -1,5 +1,5 @@
 
-Assistant: Hi, Driver. Ready to head out?
+Assistant: Hi, Friend. Ready to head out?
 Driver: Yeah… sure. Let’s just get moving.
 Assistant: Where to tonight?
 Driver: Doesn’t matter. Just drive.
@@ -29,7 +29,7 @@ Assistant: I won’t. Not tonight. Not ever.
 
 ###########################
 
-Assistant: Hi, Chris. It’s good to see you behind the wheel again.
+Assistant: Hi, Friend. It’s good to see you behind the wheel again.
 Driver: Hey yeah. Been a while.
 Assistant: Where shall we go tonight?
 Driver: Pick for me. I’m tired of choosing.
