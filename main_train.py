@@ -15,36 +15,12 @@ IGNORE_INDEX = -100
 
 tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
 
-num_added_toks = tokenizer.add_special_tokens({
-    'additional_special_tokens': ["<|im_start|>", "<|im_end|>"],
-    'pad_token': "<|pad|>"
-    })
-tokenizer.pad_token = "<|pad|>"
-
-tokenizer.save_pretrained(MODEL_PATH)
-
-##################################################################
 
 def check_special_tokens(tokenizer: GPT2Tokenizer):
     print(f"eos_token: {tokenizer.eos_token}={tokenizer.eos_token_id}, decode={tokenizer.decode([tokenizer.eos_token_id])}")
     print(f"pad_token_id: {tokenizer.pad_token}={tokenizer.pad_token_id}, decode={tokenizer.decode([tokenizer.pad_token_id])}")
 #check_special_tokens(tokenizer)
 
-
-"""
-def build_prompt(system_message, conversation_history, user_message):
-    prompt = f"<|im_start|>system\n{system_message}<|im_end|>\n"
-
-    for role, content in conversation_history:
-        if role == "user":
-            prompt += f"<|im_start|>user\n{content}<|im_end|>\n"
-        elif role == "assistant":
-            prompt += f"<|im_start|>assistant\n{content}<|im_end|>\n"
-
-    prompt += f"<|im_start|>user\n{user_message}<|im_end|>\n"
-    prompt += f"<|im_start|>assistant\n"
-    return prompt
-"""
 
 def preprocess_fn(example):
     """
@@ -111,24 +87,33 @@ class DataCollatorForCausalLMwithIgnorePad:
         }
 
 
+##################################################################
+
 if __name__ == "__main__":
+
+    num_added_toks = tokenizer.add_special_tokens({
+        'additional_special_tokens': ["<|im_start|>", "<|im_end|>"],
+        'pad_token': "<|pad|>"
+        })
+    tokenizer.pad_token = "<|pad|>"
+    tokenizer.save_pretrained(MODEL_PATH)
+
 
     model = GPT2LMHeadModel.from_pretrained("gpt2")
 
     model.resize_token_embeddings(len(tokenizer), mean_resizing=False)
 
-    dataset = load_dataset("json",
-        data_files=["./data/driver_mood_focus_100.json",
-                    "./data/driver_supermarket_100_dialogs.json",
-                    "./data/driver_work_100_varied_dialogs.json",
-                    "./data/intent_training_dialogues.json",
-                    "./data/psych_state_100_dialogs.json",
-                    "./data/test_debug.json",
-                    "./data/uncertainty_dialogs_100.json",
-                    "./data/uncertainty_film_final_100.json",
-                    "./data/uncertainty_film_more_100.json",
-                    ],
-        split="train")
+    data_files=["./data/driver_mood_focus_100.json",
+                "./data/driver_supermarket_100_dialogs.json",
+                "./data/driver_work_100_varied_dialogs.json",
+                "./data/intent_training_dialogues.json",
+                "./data/psych_state_100_dialogs.json",
+                "./data/test_debug.json",
+                "./data/uncertainty_dialogs_100.json",
+                "./data/uncertainty_film_final_100.json",
+                "./data/uncertainty_film_more_100.json",
+                ]
+    dataset = load_dataset(path="json", data_files=data_files, split="train")
 
     print(f"dataset.sz={len(dataset)}")
 
@@ -145,6 +130,7 @@ if __name__ == "__main__":
         save_strategy="no",
         save_total_limit=1,
         lr_scheduler_type="constant",
+        #prediction_loss_only=True,
     )
 
     trainer = Trainer(
@@ -156,4 +142,4 @@ if __name__ == "__main__":
 
     trainer.train()
 
-    trainer.model.save_pretrained(MODEL_PATH)
+    #trainer.model.save_pretrained(MODEL_PATH)
