@@ -42,7 +42,7 @@ def convert_to_json(finput: str):
             conversation.append({"role": "assistant", "content": final})
 
             new_item = {
-                "system": "You are a helpful car driver assistant.",
+                "system": "You are helpful car driver assistant.",
                 "conversation": conversation
             }
 
